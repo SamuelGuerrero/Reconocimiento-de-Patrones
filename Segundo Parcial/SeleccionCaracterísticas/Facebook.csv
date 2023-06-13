@@ -1,362 +1,362 @@
-,caracteres_nombre,foto_perfil,num_amigos,dias_mas_Publicaciones,paginas_que_sigue,Clase
-0,corto,Sí,medio,Domingo,pocas,T
-1,medio,Sí,medio,Domingo,pocas,T
-2,medio,Sí,medio,Domingo,pocas,T
-3,corto,Sí,medio,Domingo,pocas,T
-4,corto,Sí,medio,Viernes,pocas,T
-5,largo,Sí,alto,Domingo,pocas,T
-6,medio,Sí,medio,Domingo,pocas,T
-7,medio,Sí,medio,Sábado,pocas,T
-8,medio,Sí,medio,Domingo,pocas,T
-9,medio,Sí,alto,Sábado,pocas,T
-10,largo,Sí,alto,Sábado,pocas,T
-11,medio,Sí,alto,Viernes,pocas,T
-12,medio,Sí,medio,Sábado,pocas,T
-13,largo,Sí,bajo,Ninguno,pocas,T
-14,medio,Sí,alto,Ninguno,algunas,T
-15,medio,Sí,medio,Ninguno,pocas,T
-16,corto,No,bajo,Ninguno,algunas,T
-17,medio,Sí,medio,Ninguno,pocas,T
-18,corto,Sí,bajo,Ninguno,pocas,T
-19,medio,Sí,alto,Ninguno,pocas,T
-20,medio,Sí,medio,Sábado,pocas,T
-21,corto,Sí,medio,Ninguno,algunas,T
-22,largo,Sí,medio,Ninguno,pocas,T
-23,medio,Sí,medio,Ninguno,algunas,T
-24,medio,Sí,alto,Ninguno,algunas,T
-25,medio,Sí,medio,Lunes,pocas,T
-26,medio,Sí,medio,Ninguno,pocas,T
-27,largo,Sí,medio,Ninguno,algunas,T
-28,medio,Sí,medio,Domingo,pocas,T
-29,medio,Sí,medio,Sábado,algunas,T
-30,medio,Sí,medio,Viernes,pocas,T
-31,medio,Sí,alto,Sábado,pocas,T
-32,corto,Sí,medio,Domingo,pocas,T
-33,medio,Sí,medio,Ninguno,pocas,T
-34,largo,Sí,medio,Ninguno,algunas,T
-35,medio,Sí,medio,Ninguno,pocas,T
-36,corto,Sí,alto,Viernes,algunas,T
-37,medio,Sí,medio,Viernes,algunas,T
-38,medio,Sí,medio,Miércoles,pocas,T
-39,medio,Sí,medio,Ninguno,pocas,T
-40,largo,Sí,bajo,Ninguno,pocas,T
-41,medio,Sí,medio,Ninguno,pocas,T
-42,medio,Sí,medio,Viernes,pocas,T
-43,medio,Sí,alto,Domingo,pocas,T
-44,medio,Sí,alto,Ninguno,pocas,T
-45,medio,Sí,medio,Ninguno,algunas,T
-46,medio,Sí,alto,Jueves,pocas,T
-47,medio,Sí,medio,Ninguno,pocas,T
-48,medio,Sí,bajo,Domingo,pocas,T
-49,corto,Sí,medio,Ninguno,pocas,T
-50,medio,Sí,medio,Sábado,pocas,T
-51,medio,Sí,medio,Ninguno,pocas,T
-52,largo,Sí,alto,Viernes,pocas,T
-53,medio,Sí,alto,Domingo,pocas,T
-54,medio,Sí,medio,Lunes,algunas,T
-55,medio,Sí,medio,Ninguno,algunas,T
-56,medio,Sí,medio,Domingo,algunas,T
-57,medio,Sí,medio,Ninguno,pocas,T
-58,largo,Sí,medio,Ninguno,pocas,F
-59,medio,Sí,alto,Martes,algunas,F
-60,medio,Sí,bajo,Ninguno,pocas,F
-61,largo,Sí,bajo,Ninguno,pocas,F
-62,medio,Sí,medio,Jueves,algunas,F
-63,medio,Sí,bajo,Ninguno,pocas,F
-64,largo,Sí,medio,Domingo,pocas,F
-65,largo,Sí,bajo,Viernes,pocas,F
-66,medio,Sí,medio,Sábado,pocas,F
-67,medio,Sí,medio,Ninguno,pocas,T
-68,medio,Sí,medio,Sábado,algunas,T
-69,medio,Sí,alto,Domingo,pocas,T
-70,largo,Sí,medio,Viernes,algunas,T
-71,largo,Sí,alto,Domingo,algunas,T
-72,corto,Sí,medio,Ninguno,algunas,T
-73,corto,Sí,medio,Domingo,pocas,T
-74,largo,Sí,alto,Domingo,algunas,T
-75,medio,Sí,alto,Lunes,algunas,T
-76,medio,Sí,medio,Ninguno,algunas,T
-77,medio,No,alto,Ninguno,algunas,T
-78,medio,Sí,alto,Sábado,pocas,T
-79,medio,Sí,alto,Domingo,algunas,T
-80,medio,Sí,bajo,Domingo,pocas,T
-81,medio,Sí,medio,Sábado,algunas,T
-82,medio,Sí,medio,Ninguno,algunas,F
-83,medio,Sí,medio,Ninguno,pocas,F
-84,medio,Sí,medio,Miércoles,pocas,F
-85,medio,Sí,medio,Viernes,algunas,T
-86,medio,Sí,alto,Lunes,algunas,T
-87,largo,Sí,alto,Jueves,algunas,T
-88,largo,Sí,alto,Jueves,algunas,T
-89,medio,Sí,alto,Martes,algunas,T
-90,medio,SÍ,medio,Viernes,algunas,T
-91,largo,Sí,medio,Domingo,pocas,T
-92,medio,Sí,medio,Lunes,pocas,T
-93,medio,Sí,medio,Martes,algunas,T
-94,medio,Sí,bajo,Martes,pocas,T
-95,medio,Sí,alto,Martes,pocas,T
-96,medio,Sí,medio,Martes,pocas,T
-97,medio,Sí,alto,Martes,pocas,T
-98,medio,Sí,alto,Martes,algunas,T
-99,medio,Sí,medio,Ninguno,algunas,F
-100,medio,Sí,medio,Ninguno,pocas,F
-101,medio,No,bajo,Ninguno,pocas,F
-102,medio,Sí,medio,Jueves,pocas,F
-103,medio,Sí,bajo,Ninguno,pocas,F
-104,medio,Sí,bajo,Ninguno,pocas,F
-105,medio,Sí,alto,Lunes,algunas,F
-106,medio,Sí,alto,Sábado,algunas,F
-107,medio,Sí,medio,Miércoles,pocas,F
-108,medio,Sí,bajo,Ninguno,pocas,T
-109,medio,Sí,medio,Ninguno,pocas,T
-110,medio,Sí,medio,Miércoles,pocas,F
-111,medio,Sí,medio,Domingo,algunas,T
-112,corto,Sí,medio,Ninguno,pocas,T
-113,medio,Sí,alto,Martes,algunas,T
-114,corto,Sí,alto,Sábado,algunas,F
-115,medio,Sí,medio,Ninguno,algunas,T
-116,medio,Sí,medio,Ninguno,algunas,T
-117,medio,Sí,alto,Sábado,algunas,T
-118,medio,Sí,alto,Ninguno,algunas,T
-119,medio,No,medio,Ninguno,algunas,T
-120,corto,Sí,alto,Ninguno,algunas,T
-121,medio,Sí,medio,Sábado,algunas,T
-122,medio,Sí,medio,Domingo,pocas,T
-123,corto,Sí,medio,Viernes,algunas,T
-124,medio,Sí,alto,Sábado,algunas,T
-125,medio,Sí,alto,Viernes,algunas,T
-126,corto,Sí,medio,Martes,algunas,T
-127,medio,Sí,alto,Sábado,algunas,T
-128,medio,Sí,medio,Ninguno,algunas,T
-129,medio,Sí,alto,Domingo,algunas,T
-130,medio,Sí,medio,Sábado,algunas,T
-131,corto,Sí,alto,Viernes,algunas,T
-132,medio,Sí,medio,Ninguno,algunas,T
-133,largo,No,medio,Ninguno,pocas,T
-134,medio,Sí,medio,Ninguno,algunas,T
-135,medio,Sí,alto,Viernes,algunas,T
-136,medio,Sí,alto,Jueves,algunas,T
-137,medio,Sí,alto,Jueves,algunas,T
-138,corto,Sí,alto,Domingo,algunas,T
-139,medio,No,bajo,Ninguno,pocas,F
-140,medio,Sí,medio,Domingo,pocas,F
-141,medio,No,alto,Domingo,algunas,F
-142,largo,Sí,medio,Miércoles,pocas,F
-143,medio,SI,alto,Lunes,algunas,T
-144,corto,SI,medio,ninguno,pocas,T
-145,medio,SI,medio,ninguno,algunas,T
-146,corto,SI,alto,ninguno,algunas,T
-147,medio,SI,alto,ninguno,pocas,T
-148,corto,SI,medio,Jueves,algunas,T
-149,medio,SI,medio,Sabado,algunas,T
-150,medio,SI,bajo,ninguno,pocas,F
-151,corto,SI,medio,ninguno,muchas,T
-152,medio,SI,bajo,ninguno,algunas,T
-153,medio,SI,medio,Martes,pocas,T
-154,medio,NO,alto,ninguno,algunas,T
-155,medio,SI,alto,ninguno,algunas,T
-156,medio,NO,bajo,Miercoles,pocas,T
-157,corto,NO,alto,ninguno,muchas,T
-158,corto,NO,alto,ninguno,pocas,T
-159,corto,NO,bajo,ninguno,pocas,T
-160,corto,NO,alto,Jueves,algunas,T
-161,medio,NO,bajo,ninguno,algunas,T
-162,medio,SI,alto,ninguno,pocas,T
-163,largo,SI,medio,Domingo,algunas,T
-164,medio,SI,medio,ninguno,algunas,T
-165,medio,SI,medio,Lunes,pocas,T
-166,medio,SI,medio,ninguno,,T
-167,medio,SI,medio,Sabado,pocas,T
-168,largo,SI,medio,ninguno,algunas,T
-169,corto,SI,,ninguno,pocas,T
-170,corto,SI,,ninguno,algunas,T
-171,largo,SI,,ninguno,pocas,T
-172,corto,SI,,ninguno,pocas,T
-173,largo,SI,,ninguno,algunas,T
-174,medio,SI,medio,ninguno,algunas,T
-175,medio,SI,medio,ninguno,pocas,T
-176,medio,NO,medio,ninguno,pocas,F
-177,medio,SI,bajo,ninguno,pocas,T
-178,medio,SI,medio,ninguno,pocas,T
-179,corto,SI,bajo,ninguno,pocas,T
-180,largo,SI,alto,ninguno,pocas,T
-181,medio,SI,bajo,ninguno,pocas,T
-182,medio,SI,alto,ninguno,pocas,T
-183,corto,SI,bajo,ninguno,pocas,T
-184,medio,SI,alto,ninguno,algunas,T
-185,medio,SI,medio,ninguno,algunas,T
-186,medio,SI,alto,ninguno,algunas,T
-187,medio,SI,bajo,ninguno,,T
-188,medio,SI,bajo,ninguno,pocas,T
-189,medio,SI,medio,ninguno,pocas,T
-190,medio,SI,bajo,ninguno,,T
-191,medio,SI,medio,ninguno,pocas,T
-192,medio,NO,medio,ninguno,pocas,T
-193,corto,NO,alto,Lunes,pocas,T
-194,medio,SI,medio,ninguno,pocas,F
-195,medio,SI,alto,ninguno,pocas,F
-196,medio,SI,medio,ninguno,pocas,F
-197,corto,NO,bajo,ninguno,pocas,T
-198,medio,NO,bajo,Lunes,pocas,F
-199,medio,SI,bajo,ninguno,pocas,F
-200,medio,SI,bajo,ninguno,pocas,T
-201,medio,NO,bajo,ninguno,pocas,F
-202,corto,SI,alto,ninguno,pocas,T
-203,medio,SI,medio,ninguno,pocas,F
-204,corto,SI,bajo,Viernes,algunas,T
-205,medio,NO,bajo,ninguno,pocas,F
-206,corto,SI,bajo,ninguno,pocas,F
-207,medio,SI,bajo,ninguno,pocas,F
-208,medio,NO,alto,ninguno,pocas,F
-209,medio,SI,medio,ninguno,pocas,F
-210,corto,NO,medio,ninguno,pocas,F
-211,corto,NO,bajo,ninguno,pocas,F
-212,medio,SI,medio,ninguno,pocas,F
-213,medio,NO,medio,ninguno,pocas,F
-214,medio,SI,bajo,ninguno,pocas,F
-215,medio,SI,bajo,Martes,pocas,F
-216,corto,SI,medio,ninguno,pocas,F
-217,medio,NO,,ninguno,pocas,F
-218,medio,SI,medio,ninguno,pocas,F
-219,corto,SI,bajo,ninguno,pocas,F
+Unnamed: 0,caracteres_nombre,foto_perfil,num_amigos,dias_mas_Publicaciones,paginas_que_sigue,Clase
+0,corto,Sí,medio,fin de semana,pocas,T
+1,medio,Sí,medio,fin de semana,pocas,T
+2,medio,Sí,medio,fin de semana,pocas,T
+3,corto,Sí,medio,fin de semana,pocas,T
+4,corto,Sí,medio,media semana,pocas,T
+5,largo,Sí,alto,fin de semana,pocas,T
+6,medio,Sí,medio,fin de semana,pocas,T
+7,medio,Sí,medio,fin de semana,pocas,T
+8,medio,Sí,medio,fin de semana,pocas,T
+9,medio,Sí,alto,fin de semana,pocas,T
+10,largo,Sí,alto,fin de semana,pocas,T
+11,medio,Sí,alto,media semana,pocas,T
+12,medio,Sí,medio,fin de semana,pocas,T
+13,largo,Sí,bajo,ninguno,pocas,T
+14,medio,Sí,alto,ninguno,algunas,T
+15,medio,Sí,medio,ninguno,pocas,T
+16,corto,No,bajo,ninguno,algunas,T
+17,medio,Sí,medio,ninguno,pocas,T
+18,corto,Sí,bajo,ninguno,pocas,T
+19,medio,Sí,alto,ninguno,pocas,T
+20,medio,Sí,medio,fin de semana,pocas,T
+21,corto,Sí,medio,ninguno,algunas,T
+22,largo,Sí,medio,ninguno,pocas,T
+23,medio,Sí,medio,ninguno,algunas,T
+24,medio,Sí,alto,ninguno,algunas,T
+25,medio,Sí,medio,inicio de semana,pocas,T
+26,medio,Sí,medio,ninguno,pocas,T
+27,largo,Sí,medio,ninguno,algunas,T
+28,medio,Sí,medio,fin de semana,pocas,T
+29,medio,Sí,medio,fin de semana,algunas,T
+30,medio,Sí,medio,media semana,pocas,T
+31,medio,Sí,alto,fin de semana,pocas,T
+32,corto,Sí,medio,fin de semana,pocas,T
+33,medio,Sí,medio,ninguno,pocas,T
+34,largo,Sí,medio,ninguno,algunas,T
+35,medio,Sí,medio,ninguno,pocas,T
+36,corto,Sí,alto,media semana,algunas,T
+37,medio,Sí,medio,media semana,algunas,T
+38,medio,Sí,medio,media semana,pocas,T
+39,medio,Sí,medio,ninguno,pocas,T
+40,largo,Sí,bajo,ninguno,pocas,T
+41,medio,Sí,medio,ninguno,pocas,T
+42,medio,Sí,medio,media semana,pocas,T
+43,medio,Sí,alto,fin de semana,pocas,T
+44,medio,Sí,alto,ninguno,pocas,T
+45,medio,Sí,medio,ninguno,algunas,T
+46,medio,Sí,alto,media semana,pocas,T
+47,medio,Sí,medio,ninguno,pocas,T
+48,medio,Sí,bajo,fin de semana,pocas,T
+49,corto,Sí,medio,ninguno,pocas,T
+50,medio,Sí,medio,fin de semana,pocas,T
+51,medio,Sí,medio,ninguno,pocas,T
+52,largo,Sí,alto,media semana,pocas,T
+53,medio,Sí,alto,fin de semana,pocas,T
+54,medio,Sí,medio,inicio de semana,algunas,T
+55,medio,Sí,medio,ninguno,algunas,T
+56,medio,Sí,medio,fin de semana,algunas,T
+57,medio,Sí,medio,ninguno,pocas,T
+58,largo,Sí,medio,ninguno,pocas,F
+59,medio,Sí,alto,inicio de semana,algunas,F
+60,medio,Sí,bajo,ninguno,pocas,F
+61,largo,Sí,bajo,ninguno,pocas,F
+62,medio,Sí,medio,media semana,algunas,F
+63,medio,Sí,bajo,ninguno,pocas,F
+64,largo,Sí,medio,fin de semana,pocas,F
+65,largo,Sí,bajo,media semana,pocas,F
+66,medio,Sí,medio,fin de semana,pocas,F
+67,medio,Sí,medio,ninguno,pocas,T
+68,medio,Sí,medio,fin de semana,algunas,T
+69,medio,Sí,alto,fin de semana,pocas,T
+70,largo,Sí,medio,media semana,algunas,T
+71,largo,Sí,alto,fin de semana,algunas,T
+72,corto,Sí,medio,ninguno,algunas,T
+73,corto,Sí,medio,fin de semana,pocas,T
+74,largo,Sí,alto,fin de semana,algunas,T
+75,medio,Sí,alto,inicio de semana,algunas,T
+76,medio,Sí,medio,ninguno,algunas,T
+77,medio,No,alto,ninguno,algunas,T
+78,medio,Sí,alto,fin de semana,pocas,T
+79,medio,Sí,alto,fin de semana,algunas,T
+80,medio,Sí,bajo,fin de semana,pocas,T
+81,medio,Sí,medio,fin de semana,algunas,T
+82,medio,Sí,medio,ninguno,algunas,F
+83,medio,Sí,medio,ninguno,pocas,F
+84,medio,Sí,medio,media semana,pocas,F
+85,medio,Sí,medio,media semana,algunas,T
+86,medio,Sí,alto,inicio de semana,algunas,T
+87,largo,Sí,alto,media semana,algunas,T
+88,largo,Sí,alto,media semana,algunas,T
+89,medio,Sí,alto,inicio de semana,algunas,T
+90,medio,SÍ,medio,media semana,algunas,T
+91,largo,Sí,medio,fin de semana,pocas,T
+92,medio,Sí,medio,inicio de semana,pocas,T
+93,medio,Sí,medio,inicio de semana,algunas,T
+94,medio,Sí,bajo,inicio de semana,pocas,T
+95,medio,Sí,alto,inicio de semana,pocas,T
+96,medio,Sí,medio,inicio de semana,pocas,T
+97,medio,Sí,alto,inicio de semana,pocas,T
+98,medio,Sí,alto,inicio de semana,algunas,T
+99,medio,Sí,medio,ninguno,algunas,F
+100,medio,Sí,medio,ninguno,pocas,F
+101,medio,No,bajo,ninguno,pocas,F
+102,medio,Sí,medio,media semana,pocas,F
+103,medio,Sí,bajo,ninguno,pocas,F
+104,medio,Sí,bajo,ninguno,pocas,F
+105,medio,Sí,alto,inicio de semana,algunas,F
+106,medio,Sí,alto,fin de semana,algunas,F
+107,medio,Sí,medio,media semana,pocas,F
+108,medio,Sí,bajo,ninguno,pocas,T
+109,medio,Sí,medio,ninguno,pocas,T
+110,medio,Sí,medio,media semana,pocas,F
+111,medio,Sí,medio,fin de semana,algunas,T
+112,corto,Sí,medio,ninguno,pocas,T
+113,medio,Sí,alto,inicio de semana,algunas,T
+114,corto,Sí,alto,fin de semana,algunas,F
+115,medio,Sí,medio,ninguno,algunas,T
+116,medio,Sí,medio,ninguno,algunas,T
+117,medio,Sí,alto,fin de semana,algunas,T
+118,medio,Sí,alto,ninguno,algunas,T
+119,medio,No,medio,ninguno,algunas,T
+120,corto,Sí,alto,ninguno,algunas,T
+121,medio,Sí,medio,fin de semana,algunas,T
+122,medio,Sí,medio,fin de semana,pocas,T
+123,corto,Sí,medio,media semana,algunas,T
+124,medio,Sí,alto,fin de semana,algunas,T
+125,medio,Sí,alto,media semana,algunas,T
+126,corto,Sí,medio,inicio de semana,algunas,T
+127,medio,Sí,alto,fin de semana,algunas,T
+128,medio,Sí,medio,ninguno,algunas,T
+129,medio,Sí,alto,fin de semana,algunas,T
+130,medio,Sí,medio,fin de semana,algunas,T
+131,corto,Sí,alto,media semana,algunas,T
+132,medio,Sí,medio,ninguno,algunas,T
+133,largo,No,medio,ninguno,pocas,T
+134,medio,Sí,medio,ninguno,algunas,T
+135,medio,Sí,alto,media semana,algunas,T
+136,medio,Sí,alto,media semana,algunas,T
+137,medio,Sí,alto,media semana,algunas,T
+138,corto,Sí,alto,fin de semana,algunas,T
+139,medio,No,bajo,ninguno,pocas,F
+140,medio,Sí,medio,fin de semana,pocas,F
+141,medio,No,alto,fin de semana,algunas,F
+142,largo,Sí,medio,media semana,pocas,F
+143,medio,Sí,alto,inicio de semana,algunas,T
+144,corto,Sí,medio,ninguno,pocas,T
+145,medio,Sí,medio,ninguno,algunas,T
+146,corto,Sí,alto,ninguno,algunas,T
+147,medio,Sí,alto,ninguno,pocas,T
+148,corto,Sí,medio,media semana,algunas,T
+149,medio,Sí,medio,fin de semana,algunas,T
+150,medio,Sí,bajo,ninguno,pocas,F
+151,corto,Sí,medio,ninguno,muchas,T
+152,medio,Sí,bajo,ninguno,algunas,T
+153,medio,Sí,medio,inicio de semana,pocas,T
+154,medio,No,alto,ninguno,algunas,T
+155,medio,Sí,alto,ninguno,algunas,T
+156,medio,No,bajo,media semana,pocas,T
+157,corto,No,alto,ninguno,muchas,T
+158,corto,No,alto,ninguno,pocas,T
+159,corto,No,bajo,ninguno,pocas,T
+160,corto,No,alto,media semana,algunas,T
+161,medio,No,bajo,ninguno,algunas,T
+162,medio,Sí,alto,ninguno,pocas,T
+163,largo,Sí,medio,fin de semana,algunas,T
+164,medio,Sí,medio,ninguno,algunas,T
+165,medio,Sí,medio,inicio de semana,pocas,T
+166,medio,Sí,medio,ninguno,,T
+167,medio,Sí,medio,fin de semana,pocas,T
+168,largo,Sí,medio,ninguno,algunas,T
+169,corto,Sí,ninguno,,pocas,T
+170,corto,Sí,ninguno,,algunas,T
+171,largo,Sí,ninguno,,pocas,T
+172,corto,Sí,ninguno,,pocas,T
+173,largo,Sí,ninguno,,algunas,T
+174,medio,Sí,medio,ninguno,algunas,T
+175,medio,Sí,medio,ninguno,pocas,T
+176,medio,No,medio,ninguno,pocas,F
+177,medio,Sí,bajo,ninguno,pocas,T
+178,medio,Sí,medio,ninguno,pocas,T
+179,corto,Sí,bajo,ninguno,pocas,T
+180,largo,Sí,alto,ninguno,pocas,T
+181,medio,Sí,bajo,ninguno,pocas,T
+182,medio,Sí,alto,ninguno,pocas,T
+183,corto,Sí,bajo,ninguno,pocas,T
+184,medio,Sí,alto,ninguno,algunas,T
+185,medio,Sí,medio,ninguno,algunas,T
+186,medio,Sí,alto,ninguno,algunas,T
+187,medio,Sí,bajo,ninguno,,T
+188,medio,Sí,bajo,ninguno,pocas,T
+189,medio,Sí,medio,ninguno,pocas,T
+190,medio,Sí,bajo,ninguno,,T
+191,medio,Sí,medio,ninguno,pocas,T
+192,medio,No,medio,ninguno,pocas,T
+193,corto,No,alto,inicio de semana,pocas,T
+194,medio,Sí,medio,ninguno,pocas,F
+195,medio,Sí,alto,ninguno,pocas,F
+196,medio,Sí,medio,ninguno,pocas,F
+197,corto,No,bajo,ninguno,pocas,T
+198,medio,No,bajo,inicio de semana,pocas,F
+199,medio,Sí,bajo,ninguno,pocas,F
+200,medio,Sí,bajo,ninguno,pocas,T
+201,medio,No,bajo,ninguno,pocas,F
+202,corto,Sí,alto,ninguno,pocas,T
+203,medio,Sí,medio,ninguno,pocas,F
+204,corto,Sí,bajo,media semana,algunas,T
+205,medio,No,bajo,ninguno,pocas,F
+206,corto,Sí,bajo,ninguno,pocas,F
+207,medio,Sí,bajo,ninguno,pocas,F
+208,medio,No,alto,ninguno,pocas,F
+209,medio,Sí,medio,ninguno,pocas,F
+210,corto,No,medio,ninguno,pocas,F
+211,corto,No,bajo,ninguno,pocas,F
+212,medio,Sí,medio,ninguno,pocas,F
+213,medio,No,medio,ninguno,pocas,F
+214,medio,Sí,bajo,ninguno,pocas,F
+215,medio,Sí,bajo,inicio de semana,pocas,F
+216,corto,Sí,medio,ninguno,pocas,F
+217,medio,No,ninguno,,pocas,F
+218,medio,Sí,medio,ninguno,pocas,F
+219,corto,Sí,bajo,ninguno,pocas,F
 220,medio,si,bajo,ninguno,pocas,F
-221,corto,SI,bajo,ninguno,pocas,F
-222,medio,SI,bajo,ninguno,pocas,F
-223,corto,SI,bajo,ninguno,pocas,F
-224,medio,SI,bajo,ninguno,pocas,F
-225,medio,NO,medio,ninguno,pocas,F
-226,medio,SI,medio,ninguno,algunas,T
-227,medio,SI,medio,Lunes,pocas,T
-228,corto,SI,bajo,ninguno,pocas,F
-229,medio,SI,bajo,ninguno,pocas,F
-230,medio,SI,bajo,ninguno,pocas,F
-231,medio,SI,medio,ninguno,pocas,F
-232,corto,NO,bajo,ninguno,pocas,F
-233,medio,NO,medio,ninguno,algunas,T
-234,medio,SI,bajo,Martes,pocas,T
-235,medio,SI,bajo,ninguno,pocas,F
-236,medio,SI,medio,ninguno,pocas,F
-237,medio,SI,bajo,ninguno,pocas,F
-238,medio,SI,medio,ninguno,pocas,F
-239,medio,SI,medio,ninguno,pocas,F
-240,medio,SI,alto,Domingo,algunas,T
-241,medio,SI,alto,Viernes,algunas,T
-242,largo,SI,bajo,Lunes,algunas,T
-243,corto,SI,bajo,ninguno,pocas,T
-244,corto,SI,bajo,Miercoles,algunas,T
-245,medio,SI,alto,ninguno,pocas,T
-246,medio,SI,medio,Martes,pocas,T
-247,medio,SI,bajo,Jueves,pocas,T
-248,largo,SI,bajo,ninguno,algunas,T
-249,medio,SI,medio,Domingo,algunas,T
-250,medio,NO,medio,ninguno,pocas,T
-251,medio,SI,medio,Sabado,pocas,T
-252,medio,SI,bajo,Martes,pocas,T
-253,medio,SI,medio,ninguno,pocas,T
-254,corto,SI,bajo,ninguno,pocas,T
-255,largo,SI,alto,ninguno,pocas,T
-256,medio,SI,bajo,ninguno,pocas,T
-257,medio,SI,medio,ninguno,pocas,F
-258,corto,SI,medio,ninguno,pocas,T
-259,medio,SI,alto,Sabado,algunas,T
-260,medio,SI,alto,Lunes,algunas,T
-261,medio,SI,medio,Miercoles,,T
-262,medio,SI,medio,Lunes,pocas,T
-263,medio,SI,medio,ninguno,pocas,T
-264,medio,SI,medio,Sabado,,T
-265,medio,SI,alto,ninguno,pocas,T
-266,largo,SI,medio,ninguno,algunas,T
-267,corto,SI,medio,ninguno,pocas,T
-268,corto,SI,,Domingo,algunas,T
-269,largo,SI,alto,ninguno,pocas,T
-270,medio,SI,,ninguno,pocas,T
-271,largo,SI,,Miercoles,algunas,T
-272,medio,SI,alto,ninguno,algunas,T
-273,medio,SI,alto,ninguno,pocas,T
-274,medio,SI,medio,ninguno,pocas,T
-275,medio,SI,bajo,ninguno,pocas,T
-276,medio,SI,medio,Sabado,pocas,T
-277,corto,SI,bajo,ninguno,pocas,T
-278,largo,SI,alto,ninguno,pocas,T
-279,corto,SI,alto,ninguno,pocas,T
-280,medio,SI,alto,Domingo,pocas,T
-281,corto,SI,bajo,Martes,pocas,T
-282,medio,SI,alto,ninguno,algunas,T
-283,medio,NO,medio,ninguno,algunas,T
-284,medio,SI,alto,ninguno,algunas,T
-285,medio,SI,alto,ninguno,pocas,T
-286,medio,SI,medio,ninguno,pocas,T
-287,medio,SI,medio,ninguno,,T
-288,medio,SI,medio,Sabado,pocas,T
-289,medio,SI,alto,ninguno,pocas,T
-290,medio,SI,bajo,ninguno,pocas,F
-291,medio,SI,bajo,ninguno,algunas,F
-292,medio,SI,medio,ninguno,pocas,F
-293,corto,SI,medio,ninguno,pocas,F
-294,largo,SI,medio,ninguno,pocas,F
-295,medio,SI,bajo,Miercoles,algunas,T
-296,medio,SI,bajo,ninguno,pocas,F
-297,medio,SI,bajo,ninguno,pocas,F
-298,medio,SI,medio,Domingo,algunas,T
-299,medio,SI,medio,Sabado,pocas,T
-300,medio,SI,medio,ninguno,algunas,T
-301,corto,SI,bajo,Viernes,algunas,T
-302,medio,SI,bajo,ninguno,pocas,F
-303,medio,SI,bajo,Domingo,algunas,T
-304,corto,SI,bajo,Sabado,pocas,F
-305,medio,SI,bajo,Martes,algunas,T
-306,corto,NO,medio,ninguno,pocas,F
-307,medio,SI,medio,ninguno,algunas,T
-308,medio,SI,alto,ninguno,algunas,T
-309,medio,SI,bajo,ninguno,pocas,T
-310,medio,SI,medio,ninguno,pocas,T
-311,largo,NO,bajo,ninguno,pocas,T
-312,medio,SI,medio,ninguno,pocas,T
-313,medio,SI,bajo,Jueves,pocas,T
-314,medio,SI,medio,ninguno,algunas,T
-315,corto,SI,medio,ninguno,algunas,T
-316,medio,SI,medio,ninguno,pocas,T
-317,medio,NO,bajo,ninguno,pocas,F
-318,corto,NO,bajo,ninguno,pocas,F
-319,medio,NO,bajo,ninguno,pocas,F
-320,medio,NO,bajo,ninguno,pocas,F
-321,medio,NO,medio,ninguno,pocas,F
-322,largo,NO,bajo,ninguno,pocas,F
-323,corto,NO,bajo,ninguno,pocas,F
-324,medio,NO,bajo,ninguno,pocas,F
-325,medio,NO,medio,ninguno,pocas,T
-326,corto,NO,bajo,Miercoles,pocas,T
-327,corto,SI,bajo,ninguno,pocas,F
-328,corto,SI,bajo,ninguno,pocas,F
-329,medio,SI,bajo,ninguno,pocas,F
-330,corto,SI,bajo,ninguno,pocas,F
-331,corto,SI,bajo,viernes,algunas,F
-332,medio,SI,bajo,ninguno,pocas,F
-333,corto,SI,bajo,ninguno,algunas,F
-334,medio,SI,bajo,viernes,pocas,F
-335,corto,SI,alto,Martes,algunas,T
-336,medio,SI,bajo,ninguno,pocas,F
-337,corto,NO,bajo,ninguno,algunas,T
-338,medio,SI,bajo,ninguno,algunas,T
-339,corto,SI,alto,Viernes,pocas,T
-340,medio,SI,medio,Domingo,pocas,T
-341,medio,SI,alto,ninguno,algunas,T
-342,largo,SI,medio,ninguno,algunas,T
-343,corto,SI,alto,ninguno,algunas,T
-344,medio,SI,medio,ninguno,algunas,T
-345,medio,SI,medio,Martes,pocas,T
-346,medio,SI,bajo,ninguno,algunas,T
-347,medio,SI,medio,jueves,pocas,T
-348,medio,SI,medio,ninguno,pocas,T
-349,medio,SI,medio,Martes,algunas,T
-350,largo,SI,alto,ninguno,pocas,T
-351,medio,SI,medio,ninguno,pocas,T
-352,medio,SI,alto,Sabado,pocas,T
-353,corto,SI,bajo,ninguno,pocas,T
-354,medio,SI,alto,ninguno,pocas,T
-355,medio,SI,bajo,Lunes,pocas,T
-356,largo,SI,medio,Sabado,algunas,T
-357,medio,SI,bajo,ninguno,pocas,F
-358,corto,SI,bajo,ninguno,pocas,F
-359,medio,SI,alto,ninguno,pocas,F
-360,largo,SI,medio,ninguno,pocas,T
+221,corto,Sí,bajo,ninguno,pocas,F
+222,medio,Sí,bajo,ninguno,pocas,F
+223,corto,Sí,bajo,ninguno,pocas,F
+224,medio,Sí,bajo,ninguno,pocas,F
+225,medio,No,medio,ninguno,pocas,F
+226,medio,Sí,medio,ninguno,algunas,T
+227,medio,Sí,medio,inicio de semana,pocas,T
+228,corto,Sí,bajo,ninguno,pocas,F
+229,medio,Sí,bajo,ninguno,pocas,F
+230,medio,Sí,bajo,ninguno,pocas,F
+231,medio,Sí,medio,ninguno,pocas,F
+232,corto,No,bajo,ninguno,pocas,F
+233,medio,No,medio,ninguno,algunas,T
+234,medio,Sí,bajo,inicio de semana,pocas,T
+235,medio,Sí,bajo,ninguno,pocas,F
+236,medio,Sí,medio,ninguno,pocas,F
+237,medio,Sí,bajo,ninguno,pocas,F
+238,medio,Sí,medio,ninguno,pocas,F
+239,medio,Sí,medio,ninguno,pocas,F
+240,medio,Sí,alto,fin de semana,algunas,T
+241,medio,Sí,alto,media semana,algunas,T
+242,largo,Sí,bajo,inicio de semana,algunas,T
+243,corto,Sí,bajo,ninguno,pocas,T
+244,corto,Sí,bajo,media semana,algunas,T
+245,medio,Sí,alto,ninguno,pocas,T
+246,medio,Sí,medio,inicio de semana,pocas,T
+247,medio,Sí,bajo,media semana,pocas,T
+248,largo,Sí,bajo,ninguno,algunas,T
+249,medio,Sí,medio,fin de semana,algunas,T
+250,medio,No,medio,ninguno,pocas,T
+251,medio,Sí,medio,fin de semana,pocas,T
+252,medio,Sí,bajo,inicio de semana,pocas,T
+253,medio,Sí,medio,ninguno,pocas,T
+254,corto,Sí,bajo,ninguno,pocas,T
+255,largo,Sí,alto,ninguno,pocas,T
+256,medio,Sí,bajo,ninguno,pocas,T
+257,medio,Sí,medio,ninguno,pocas,F
+258,corto,Sí,medio,ninguno,pocas,T
+259,medio,Sí,alto,fin de semana,algunas,T
+260,medio,Sí,alto,inicio de semana,algunas,T
+261,medio,Sí,medio,media semana,ninguno,T
+262,medio,Sí,medio,inicio de semana,pocas,T
+263,medio,Sí,medio,ninguno,pocas,T
+264,medio,Sí,medio,fin de semana,ninguno,T
+265,medio,Sí,alto,ninguno,pocas,T
+266,largo,Sí,medio,ninguno,algunas,T
+267,corto,Sí,medio,ninguno,pocas,T
+268,corto,Sí,ninguno,fin de semana,algunas,T
+269,largo,Sí,alto,ninguno,pocas,T
+270,medio,Sí,ninguno,,pocas,T
+271,largo,Sí,ninguno,media semana,algunas,T
+272,medio,Sí,alto,ninguno,algunas,T
+273,medio,Sí,alto,ninguno,pocas,T
+274,medio,Sí,medio,ninguno,pocas,T
+275,medio,Sí,bajo,ninguno,pocas,T
+276,medio,Sí,medio,fin de semana,pocas,T
+277,corto,Sí,bajo,ninguno,pocas,T
+278,largo,Sí,alto,ninguno,pocas,T
+279,corto,Sí,alto,ninguno,pocas,T
+280,medio,Sí,alto,fin de semana,pocas,T
+281,corto,Sí,bajo,inicio de semana,pocas,T
+282,medio,Sí,alto,ninguno,algunas,T
+283,medio,No,medio,ninguno,algunas,T
+284,medio,Sí,alto,ninguno,algunas,T
+285,medio,Sí,alto,ninguno,pocas,T
+286,medio,Sí,medio,ninguno,pocas,T
+287,medio,Sí,medio,ninguno,,T
+288,medio,Sí,medio,fin de semana,pocas,T
+289,medio,Sí,alto,ninguno,pocas,T
+290,medio,Sí,bajo,ninguno,pocas,F
+291,medio,Sí,bajo,ninguno,algunas,F
+292,medio,Sí,medio,ninguno,pocas,F
+293,corto,Sí,medio,ninguno,pocas,F
+294,largo,Sí,medio,ninguno,pocas,F
+295,medio,Sí,bajo,media semana,algunas,T
+296,medio,Sí,bajo,ninguno,pocas,F
+297,medio,Sí,bajo,ninguno,pocas,F
+298,medio,Sí,medio,fin de semana,algunas,T
+299,medio,Sí,medio,fin de semana,pocas,T
+300,medio,Sí,medio,ninguno,algunas,T
+301,corto,Sí,bajo,media semana,algunas,T
+302,medio,Sí,bajo,ninguno,pocas,F
+303,medio,Sí,bajo,fin de semana,algunas,T
+304,corto,Sí,bajo,fin de semana,pocas,F
+305,medio,Sí,bajo,inicio de semana,algunas,T
+306,corto,No,medio,ninguno,pocas,F
+307,medio,Sí,medio,ninguno,algunas,T
+308,medio,Sí,alto,ninguno,algunas,T
+309,medio,Sí,bajo,ninguno,pocas,T
+310,medio,Sí,medio,ninguno,pocas,T
+311,largo,No,bajo,ninguno,pocas,T
+312,medio,Sí,medio,ninguno,pocas,T
+313,medio,Sí,bajo,media semana,pocas,T
+314,medio,Sí,medio,ninguno,algunas,T
+315,corto,Sí,medio,ninguno,algunas,T
+316,medio,Sí,medio,ninguno,pocas,T
+317,medio,No,bajo,ninguno,pocas,F
+318,corto,No,bajo,ninguno,pocas,F
+319,medio,No,bajo,ninguno,pocas,F
+320,medio,No,bajo,ninguno,pocas,F
+321,medio,No,medio,ninguno,pocas,F
+322,largo,No,bajo,ninguno,pocas,F
+323,corto,No,bajo,ninguno,pocas,F
+324,medio,No,bajo,ninguno,pocas,F
+325,medio,No,medio,ninguno,pocas,T
+326,corto,No,bajo,media semana,pocas,T
+327,corto,Sí,bajo,ninguno,pocas,F
+328,corto,Sí,bajo,ninguno,pocas,F
+329,medio,Sí,bajo,ninguno,pocas,F
+330,corto,Sí,bajo,ninguno,pocas,F
+331,corto,Sí,bajo,ninguno,algunas,F
+332,medio,Sí,bajo,ninguno,pocas,F
+333,corto,Sí,bajo,ninguno,algunas,F
+334,medio,Sí,bajo,ninguno,pocas,F
+335,corto,Sí,alto,inicio de semana,algunas,T
+336,medio,Sí,bajo,ninguno,pocas,F
+337,corto,No,bajo,ninguno,algunas,T
+338,medio,Sí,bajo,ninguno,algunas,T
+339,corto,Sí,alto,media semana,pocas,T
+340,medio,Sí,medio,fin de semana,pocas,T
+341,medio,Sí,alto,ninguno,algunas,T
+342,largo,Sí,medio,ninguno,algunas,T
+343,corto,Sí,alto,ninguno,algunas,T
+344,medio,Sí,medio,ninguno,algunas,T
+345,medio,Sí,medio,inicio de semana,pocas,T
+346,medio,Sí,bajo,ninguno,algunas,T
+347,medio,Sí,medio,ninguno,pocas,T
+348,medio,Sí,medio,ninguno,pocas,T
+349,medio,Sí,medio,inicio de semana,algunas,T
+350,largo,Sí,alto,ninguno,pocas,T
+351,medio,Sí,medio,ninguno,pocas,T
+352,medio,Sí,alto,fin de semana,pocas,T
+353,corto,Sí,bajo,ninguno,pocas,T
+354,medio,Sí,alto,ninguno,pocas,T
+355,medio,Sí,bajo,inicio de semana,pocas,T
+356,largo,Sí,medio,fin de semana,algunas,T
+357,medio,Sí,bajo,ninguno,pocas,F
+358,corto,Sí,bajo,ninguno,pocas,F
+359,medio,Sí,alto,ninguno,pocas,F
+360,largo,Sí,medio,ninguno,pocas,T
