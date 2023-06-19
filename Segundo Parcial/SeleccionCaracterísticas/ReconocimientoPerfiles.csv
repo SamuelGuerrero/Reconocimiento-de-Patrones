@@ -1,143 +1,143 @@
-Unnamed: 0,Edad,Genero,Tutor,Vive-con-Familia,Enfermedad-CrÃ³nica,Promedio-Preparatoria,Materias-Relacionadas,Carrera-Elegida-Ajusta-A-Gustos-Habilidades,Buena-RelaciÃ³n-Familiar,Buena-RelaciÃ³n-Amigos-CompaÃ±eros,Materias-Cursadas-Primer-Semestre,Promedio-Primer-Semestre,Materias-Aprobadas-Primer-Semestre,Materias-Reprobadas-De-ComputaciÃ³n,Materias-Reprobadas-De-MatemÃ¡ticas,Materias-Reprobadas-De-Ciensias-Sociales,Horas-Promedio-Estudio-Examenes,Horas-Promedio-Estudio-Actividades-Escolares,Cursos-Extra-Primer-Semestre,Noviazgo,Actividad-Cultural-o-Deportiva,Tiempo-con-sus-amigos-compaÃ±eros,Horas-Semana-Divertirse con-sus-amigos,ConsumÃ­a-Alcohol-Entre-semana,ConsumÃ­a-Alcohol-Fin-semana,Horas-DÃ­a-Dedicada-Redes-Sociales,Gustan-Videojuegos,Horas-Semana-Dedicada-Videojuegos,Horas-Semana-Dedicada-Actividades-Entretenimiento
-0,señor,Masculino,Madre,No,No,bueno,Sí,Sí,No,No,muchas,malo,pocas,Sí,No,No,baja,baja,No,No,No,No,baja,nunca,nunca,<1,No,0,1-3
-1,señor,Masculino,Madre,Sí,No,bueno,No,Sí,Sí,Sí,algunas,malo,pocas,No,Sí,No,baja,baja,No,Sí,Sí,Sí,media,casi-nunca,a veces,>2,Sí,>3,1-3
-2,señor,Masculino,Padre,Sí,No,regular,No,Sí,Sí,Sí,muchas,regular,muchas,No,No,No,baja,baja,No,Sí,No,Sí,baja,casi-nunca,casi-nunca,1-2,Sí,1-3,1-3
-3,joven,Masculino,Madre,No,No,bueno,Sí,No,Sí,Sí,algunas,regular,pocas,Sí,No,No,baja,baja,No,No,Sí,Sí,baja,a veces,regularmente,1-2,No,0,1-3
-4,joven,Masculino,Madre,Sí,No,regular,No,No,No,Sí,algunas,regular,algunas,No,No,No,baja,baja,No,Sí,No,No,baja,nunca,casi-nunca,1-2,Sí,>3,>3
-5,señor,Masculino,Madre,Sí,No,regular,Sí,Sí,Sí,Sí,algunas,regular,algunas,No,No,No,baja,baja,No,Sí,No,Sí,alta,nunca,nunca,>2,Sí,1-3,1-3
-6,señor,Femenino,Padre,No,No,bueno,Sí,Sí,Sí,Sí,algunas,regular,algunas,No,No,No,baja,baja,No,Sí,No,Sí,media,nunca,nunca,>2,Sí,>3,>3
-7,joven,Femenino,Madre,Sí,No,bueno,Sí,Sí,Sí,Sí,muchas,regular,muchas,No,No,No,baja,baja,No,No,Sí,Sí,baja,nunca,nunca,<1,No,0,1-3
-8,señor,Masculino,Madre,Sí,No,regular,Sí,Sí,Sí,Sí,muchas,regular,muchas,Sí,No,No,baja,baja,Sí,No,No,Sí,baja,nunca,nunca,>2,No,0,1-3
-9,señor,Masculino,Padre,Sí,No,regular,Sí,Sí,Sí,Sí,algunas,regular,algunas,No,No,No,baja,baja,No,No,No,No,baja,nunca,nunca,>2,Sí,>3,>3
-10,joven,Masculino,Madre,Sí,No,bueno,Sí,Sí,Sí,Sí,algunas,regular,algunas,No,No,No,baja,baja,No,Sí,No,Sí,baja,nunca,nunca,1-2,Sí,1-3,0
-11,joven,Masculino,Madre,No,No,regular,Sí,Sí,Sí,Sí,muchas,malo,pocas,Sí,Sí,No,baja,baja,No,No,No,Sí,media,a veces,regularmente,1-2,Sí,1-3,>3
+,Edad,Genero,Tutor,Vive-con-Familia,Enfermedad-CrÃ³nica,Promedio-Preparatoria,Materias-Relacionadas,Carrera-Elegida-Ajusta-A-Gustos-Habilidades,Buena-RelaciÃ³n-Familiar,Buena-RelaciÃ³n-Amigos-CompaÃ±eros,Materias-Cursadas-Primer-Semestre,Promedio-Primer-Semestre,Materias-Aprobadas-Primer-Semestre,Materias-Reprobadas-De-ComputaciÃ³n,Materias-Reprobadas-De-MatemÃ¡ticas,Materias-Reprobadas-De-Ciensias-Sociales,Horas-Promedio-Estudio-Examenes,Horas-Promedio-Estudio-Actividades-Escolares,Cursos-Extra-Primer-Semestre,Noviazgo,Actividad-Cultural-o-Deportiva,Tiempo-con-sus-amigos-compaÃ±eros,Horas-Semana-Divertirse con-sus-amigos,ConsumÃ­a-Alcohol-Entre-semana,ConsumÃ­a-Alcohol-Fin-semana,Horas-DÃ­a-Dedicada-Redes-Sociales,Gustan-Videojuegos,Horas-Semana-Dedicada-Videojuegos,Horas-Semana-Dedicada-Actividades-Entretenimiento
+0,señor,Masculino,Madre,No,No,bueno,Sí,Sí,No,No,muchas,malo,algunas,Sí,No,No,baja,baja,No,No,No,No,baja,nunca,nunca,<1,No,0,1-3
+1,joven,Masculino,Madre,Sí,No,bueno,No,Sí,Sí,Sí,algunas,regular,algunas,No,Sí,No,baja,baja,No,Sí,Sí,Sí,media,casi-nunca,a veces,>2,Sí,>3,1-3
+2,joven,Masculino,Padre,Sí,No,regular,No,Sí,Sí,Sí,muchas,bueno,muchas,No,No,No,baja,baja,No,Sí,No,Sí,baja,casi-nunca,casi-nunca,1-2,Sí,1-3,1-3
+3,joven,Masculino,Madre,No,No,bueno,Sí,No,Sí,Sí,algunas,regular,algunas,Sí,No,No,baja,baja,No,No,Sí,Sí,baja,a veces,regularmente,1-2,No,0,1-3
+4,joven,Masculino,Madre,Sí,No,regular,No,No,No,Sí,algunas,bueno,muchas,No,No,No,baja,baja,No,Sí,No,No,baja,nunca,casi-nunca,1-2,Sí,>3,>3
+5,joven,Masculino,Madre,Sí,No,regular,Sí,Sí,Sí,Sí,algunas,regular,muchas,No,No,No,baja,baja,No,Sí,No,Sí,alta,nunca,nunca,>2,Sí,1-3,1-3
+6,joven,Femenino,Padre,No,No,bueno,Sí,Sí,Sí,Sí,algunas,bueno,muchas,No,No,No,baja,baja,No,Sí,No,Sí,media,nunca,nunca,>2,Sí,>3,>3
+7,joven,Femenino,Madre,Sí,No,bueno,Sí,Sí,Sí,Sí,muchas,bueno,muchas,No,No,No,baja,baja,No,No,Sí,Sí,baja,nunca,nunca,<1,No,0,1-3
+8,joven,Masculino,Madre,Sí,No,regular,Sí,Sí,Sí,Sí,muchas,regular,muchas,Sí,No,No,baja,baja,Sí,No,No,Sí,baja,nunca,nunca,>2,No,0,1-3
+9,joven,Masculino,Padre,Sí,No,regular,Sí,Sí,Sí,Sí,algunas,bueno,muchas,No,No,No,baja,baja,No,No,No,No,baja,nunca,nunca,>2,Sí,>3,>3
+10,joven,Masculino,Madre,Sí,No,bueno,Sí,Sí,Sí,Sí,algunas,bueno,muchas,No,No,No,baja,baja,No,Sí,No,Sí,baja,nunca,nunca,1-2,Sí,1-3,0
+11,joven,Masculino,Madre,No,No,regular,Sí,Sí,Sí,Sí,muchas,regular,algunas,Sí,Sí,No,baja,baja,No,No,No,Sí,media,a veces,regularmente,1-2,Sí,1-3,>3
 12,joven,Masculino,Padre,Sí,No,bueno,Sí,Sí,Sí,Sí,muchas,bueno,muchas,No,No,No,alta,baja,No,No,Sí,Sí,baja,nunca,nunca,>2,Sí,1-3,>3
-13,joven,Masculino,Madre,Sí,No,regular,No,Sí,Sí,No,algunas,malo,algunas,No,No,No,baja,baja,No,No,No,No,baja,nunca,nunca,>2,No,0,>3
-14,señor,Masculino,Padre,Sí,No,regular,Sí,Sí,Sí,Sí,algunas,regular,algunas,No,Sí,No,baja,baja,No,No,No,Sí,media,a veces,a veces,>2,Sí,>3,>3
-15,joven,Femenino,Madre,Sí,No,bueno,No,No,Sí,No,algunas,malo,algunas,Sí,Sí,No,baja,baja,Sí,No,No,No,baja,nunca,nunca,1-2,No,0,1-3
-16,señor,Masculino,Madre,No,No,regular,Sí,Sí,Sí,Sí,muchas,regular,muchas,Sí,Sí,No,baja,baja,No,Sí,No,Sí,baja,casi-nunca,casi-nunca,<1,No,0,1-3
-17,señor,Masculino,Padre,Sí,No,bueno,Sí,Sí,Sí,Sí,muchas,malo,muchas,No,No,No,baja,baja,No,No,Sí,Sí,alta,a veces,regularmente,1-2,No,0,1-3
-18,joven,Masculino,Madre,Sí,No,bueno,Sí,Sí,Sí,Sí,muchas,regular,muchas,No,No,No,baja,baja,No,Sí,No,No,baja,nunca,nunca,>2,Sí,1-3,>3
-19,joven,Masculino,Madre,No,No,regular,Sí,Sí,Sí,Sí,algunas,regular,algunas,No,No,No,baja,baja,No,No,Sí,No,baja,casi-nunca,casi-nunca,1-2,Sí,1-3,1-3
-20,señor,Masculino,Padre,No,No,bueno,No,Sí,No,Sí,algunas,malo,algunas,Sí,No,No,media,baja,No,Sí,No,Sí,baja,nunca,regularmente,<1,Sí,0,0
-21,señor,Masculino,Madre,Sí,No,bueno,No,No,Sí,Sí,algunas,bueno,algunas,No,No,No,baja,baja,No,Sí,No,Sí,media,nunca,nunca,1-2,Sí,1-3,1-3
-22,joven,Masculino,Madre,No,No,regular,Sí,Sí,Sí,Sí,muchas,regular,algunas,No,No,Sí,baja,baja,No,Sí,No,Sí,alta,nunca,nunca,1-2,Sí,>3,>3
-23,joven,Femenino,Otra persona,No,No,regular,No,Sí,No,No,algunas,malo,algunas,No,No,No,baja,baja,No,Sí,No,No,baja,casi-nunca,a veces,1-2,Sí,1-3,>3
-24,joven,Masculino,Madre,Sí,No,bueno,Sí,Sí,No,Sí,algunas,regular,algunas,No,No,No,baja,baja,No,No,No,Sí,media,a veces,a veces,1-2,Sí,1-3,1-3
-25,joven,Masculino,Padre,Sí,No,bueno,Sí,Sí,Sí,Sí,algunas,regular,algunas,No,No,No,baja,baja,Sí,No,No,Sí,baja,nunca,nunca,<1,Sí,1-3,1-3
-26,joven,Masculino,Madre,No,Sí,bueno,Sí,Sí,Sí,No,algunas,regular,algunas,No,No,No,alta,baja,No,No,No,No,baja,nunca,nunca,<1,Sí,1-3,1-3
-27,joven,Masculino,Madre,Sí,No,regular,No,Sí,Sí,Sí,algunas,malo,algunas,Sí,No,No,baja,baja,No,No,No,Sí,baja,nunca,nunca,>2,Sí,1-3,1-3
-28,señor,Masculino,Padre,Sí,No,bueno,Sí,Sí,Sí,Sí,muchas,regular,muchas,No,No,No,baja,baja,No,No,No,No,baja,nunca,nunca,>2,Sí,1-3,1-3
-29,señor,Masculino,Madre,Sí,No,bueno,Sí,Sí,Sí,Sí,algunas,regular,algunas,Sí,No,No,baja,baja,No,No,No,No,baja,nunca,nunca,1-2,Sí,1-3,1-3
-30,joven,Masculino,Padre,Sí,No,bueno,Sí,No,Sí,Sí,algunas,regular,algunas,Sí,No,No,baja,baja,No,No,No,Sí,media,nunca,nunca,1-2,Sí,>3,>3
-31,joven,Masculino,Padre,Sí,No,bueno,Sí,Sí,Sí,Sí,algunas,bueno,algunas,No,No,No,baja,baja,No,No,Sí,Sí,baja,nunca,nunca,<1,Sí,0,1-3
-32,joven,Masculino,Madre,No,No,bueno,Sí,Sí,Sí,Sí,muchas,regular,muchas,No,No,No,baja,baja,No,No,No,Sí,media,casi-nunca,casi-nunca,1-2,Sí,1-3,1-3
-33,señor,Masculino,Padre,Sí,No,bueno,No,Sí,Sí,Sí,algunas,bueno,algunas,No,No,No,baja,baja,No,No,No,Sí,baja,nunca,nunca,>2,Sí,1-3,>3
-34,señor,Masculino,Madre,Sí,No,regular,Sí,Sí,Sí,No,algunas,malo,algunas,Sí,No,No,baja,baja,No,No,No,No,baja,casi-nunca,casi-nunca,>2,No,0,>3
-35,señor,Masculino,Madre,Sí,No,bueno,Sí,Sí,No,No,muchas,regular,pocas,No,Sí,No,baja,baja,No,Sí,Sí,Sí,baja,casi-nunca,a veces,1-2,Sí,1-3,1-3
-36,señor,Femenino,Padre,Sí,No,bueno,No,Sí,Sí,Sí,algunas,regular,algunas,Sí,No,No,baja,media,No,No,No,No,baja,nunca,nunca,1-2,No,0,1-3
-37,señor,Masculino,Madre,Sí,No,bueno,Sí,Sí,No,No,muchas,regular,muchas,No,No,No,baja,baja,No,No,No,No,baja,nunca,nunca,<1,No,0,1-3
-38,joven,Masculino,Madre,Sí,No,bueno,Sí,Sí,Sí,Sí,algunas,bueno,algunas,No,No,No,baja,baja,No,No,No,No,baja,nunca,nunca,>2,Sí,1-3,1-3
-39,joven,Masculino,Madre,Sí,No,regular,No,Sí,Sí,Sí,muchas,malo,pocas,Sí,Sí,No,baja,baja,Sí,Sí,Sí,No,media,nunca,nunca,1-2,Sí,1-3,1-3
-40,joven,Masculino,Madre,No,No,bueno,Sí,Sí,Sí,Sí,algunas,bueno,algunas,No,No,No,baja,media,No,No,No,Sí,media,nunca,nunca,1-2,Sí,1-3,1-3
-41,señor,Masculino,Madre,No,No,bueno,Sí,Sí,Sí,Sí,algunas,bueno,algunas,No,No,No,media,baja,No,Sí,No,Sí,media,nunca,nunca,1-2,Sí,1-3,1-3
-42,señor,Masculino,Padre,No,No,bueno,No,No,No,Sí,algunas,regular,algunas,No,No,Sí,baja,media,No,No,Sí,No,baja,casi-nunca,casi-nunca,<1,No,0,1-3
-43,señor,Masculino,Madre,No,No,bueno,Sí,Sí,Sí,Sí,algunas,regular,algunas,No,No,No,baja,baja,No,Sí,No,Sí,media,nunca,casi-nunca,1-2,No,0,1-3
-44,señor,Masculino,Madre,Sí,No,regular,Sí,Sí,Sí,Sí,algunas,regular,algunas,No,No,No,baja,baja,No,Sí,Sí,Sí,baja,nunca,nunca,1-2,Sí,0,>3
-45,señor,Femenino,Madre,No,Sí,regular,No,No,Sí,Sí,muchas,malo,algunas,No,Sí,No,media,baja,No,Sí,No,No,baja,nunca,nunca,1-2,No,0,1-3
-46,señor,Femenino,Madre,No,No,regular,Sí,Sí,Sí,Sí,muchas,regular,muchas,No,No,No,baja,media,No,No,Sí,No,baja,nunca,nunca,>2,No,0,1-3
-47,señor,Masculino,Madre,No,No,regular,No,No,Sí,Sí,algunas,regular,algunas,Sí,No,No,baja,baja,No,No,Sí,Sí,alta,a veces,a veces,1-2,Sí,1-3,1-3
-48,joven,Masculino,Pariente,No,No,bueno,Sí,Sí,Sí,Sí,muchas,regular,muchas,No,No,No,baja,baja,No,Sí,Sí,Sí,media,nunca,nunca,1-2,Sí,>3,1-3
-49,señor,Masculino,Madre,No,No,bueno,Sí,Sí,Sí,Sí,algunas,regular,algunas,No,No,No,baja,baja,No,Sí,No,Sí,alta,a veces,regularmente,1-2,Sí,>3,>3
-50,joven,Femenino,Madre,No,No,bueno,No,No,Sí,Sí,muchas,malo,algunas,Sí,Sí,No,baja,baja,No,Sí,No,Sí,baja,nunca,nunca,>2,No,1-3,1-3
-51,joven,Masculino,Madre,Sí,No,bueno,Sí,Sí,Sí,Sí,algunas,regular,algunas,No,No,No,baja,baja,No,Sí,No,Sí,media,nunca,casi-nunca,1-2,Sí,1-3,1-3
-52,señor,Masculino,Madre,Sí,No,bueno,Sí,Sí,Sí,Sí,algunas,regular,algunas,Sí,No,No,baja,baja,No,No,No,No,baja,nunca,nunca,1-2,Sí,1-3,1-3
-53,joven,Masculino,Madre,Sí,No,regular,Sí,Sí,Sí,Sí,muchas,malo,muchas,No,No,No,baja,baja,No,Sí,No,No,baja,nunca,nunca,1-2,No,0,1-3
-54,joven,Masculino,Otra persona,No,No,bueno,Sí,No,Sí,No,muchas,malo,algunas,No,Sí,No,baja,baja,Sí,No,Sí,Sí,baja,nunca,nunca,>2,Sí,1-3,>3
-55,señor,Masculino,Padre,No,No,regular,Sí,Sí,Sí,Sí,muchas,regular,muchas,No,No,No,baja,baja,No,No,No,No,baja,nunca,nunca,>2,Sí,>3,>3
-56,señor,Masculino,Padre,No,No,bueno,No,Sí,Sí,Sí,muchas,regular,muchas,No,No,No,baja,baja,No,No,No,Sí,baja,casi-nunca,nunca,1-2,Sí,1-3,1-3
-57,joven,Masculino,Madre,Sí,No,bueno,Sí,Sí,Sí,No,algunas,malo,algunas,Sí,No,No,baja,baja,No,No,No,Sí,media,a veces,regularmente,<1,Sí,0,>3
-58,joven,Femenino,Madre,Sí,No,bueno,Sí,Sí,No,Sí,muchas,regular,algunas,No,Sí,No,baja,baja,No,Sí,No,Sí,baja,casi-nunca,casi-nunca,>2,No,0,1-3
-59,señor,Masculino,Madre,No,No,bueno,No,No,No,No,muchas,regular,muchas,No,No,No,baja,baja,No,Sí,Sí,No,baja,regularmente,regularmente,>2,No,0,>3
-60,señor,Masculino,Padre,Sí,Sí,bueno,No,Sí,No,No,algunas,regular,algunas,No,Sí,No,media,alta,No,No,No,Sí,baja,nunca,nunca,<1,Sí,0,1-3
-61,señor,Masculino,Madre,No,No,bueno,No,Sí,Sí,No,muchas,malo,muchas,No,No,No,baja,baja,No,No,Sí,Sí,baja,nunca,nunca,1-2,Sí,1-3,1-3
-62,señor,Femenino,Madre,Sí,Sí,bueno,Sí,Sí,Sí,No,algunas,regular,algunas,Sí,No,No,media,baja,No,No,No,Sí,media,a veces,regularmente,>2,Sí,1-3,1-3
-63,señor,Masculino,Padre,Sí,No,bueno,Sí,Sí,Sí,Sí,algunas,regular,algunas,No,No,No,baja,baja,No,No,No,No,baja,nunca,nunca,>2,Sí,1-3,1-3
-64,señor,Masculino,Madre,No,Sí,bueno,No,No,Sí,Sí,muchas,regular,muchas,No,No,No,baja,baja,No,No,No,Sí,baja,nunca,nunca,>2,Sí,0,>3
-65,señor,Masculino,Madre,Sí,No,regular,Sí,Sí,Sí,Sí,muchas,malo,algunas,No,Sí,No,baja,baja,No,Sí,Sí,Sí,alta,a veces,regularmente,>2,No,0,1-3
-66,señor,Masculino,Madre,Sí,No,regular,Sí,No,Sí,Sí,muchas,regular,algunas,Sí,No,No,baja,baja,No,No,No,Sí,baja,nunca,nunca,>2,No,0,1-3
-67,señor,Masculino,Madre,Sí,No,bueno,Sí,Sí,No,Sí,algunas,regular,algunas,No,No,No,baja,baja,Sí,Sí,No,Sí,baja,casi-nunca,casi-nunca,>2,Sí,>3,>3
-68,joven,Masculino,Padre,No,No,regular,Sí,Sí,No,Sí,algunas,regular,algunas,No,No,No,baja,baja,Sí,No,No,No,baja,casi-nunca,nunca,>2,Sí,>3,>3
-69,joven,Masculino,Madre,No,No,bueno,Sí,Sí,Sí,No,algunas,regular,algunas,Sí,No,No,baja,baja,No,No,No,No,baja,nunca,nunca,1-2,Sí,>3,0
-70,joven,Masculino,Padre,No,No,regular,No,Sí,Sí,Sí,algunas,malo,pocas,Sí,Sí,No,baja,baja,Sí,No,Sí,Sí,baja,casi-nunca,casi-nunca,<1,Sí,1-3,1-3
-71,joven,Masculino,Padre,Sí,No,bueno,Sí,Sí,Sí,Sí,algunas,regular,algunas,No,No,No,baja,baja,No,No,Sí,Sí,baja,nunca,nunca,>2,Sí,1-3,1-3
-72,joven,Masculino,Padre,Sí,No,bueno,Sí,Sí,Sí,No,algunas,bueno,algunas,No,No,No,baja,media,No,Sí,No,No,baja,nunca,nunca,<1,Sí,1-3,1-3
-73,joven,Masculino,Madre,Sí,No,bueno,Sí,Sí,Sí,Sí,algunas,regular,algunas,No,No,No,baja,baja,Sí,Sí,Sí,Sí,baja,nunca,nunca,1-2,Sí,1-3,1-3
-74,joven,Masculino,Madre,Sí,No,regular,Sí,Sí,Sí,Sí,algunas,regular,algunas,No,No,No,baja,baja,No,No,Sí,No,baja,nunca,nunca,1-2,Sí,>3,1-3
-75,señor,Masculino,Madre,Sí,No,bueno,Sí,Sí,Sí,Sí,muchas,regular,muchas,No,No,No,media,baja,No,Sí,Sí,Sí,alta,casi-nunca,a veces,1-2,Sí,1-3,>3
-76,joven,Femenino,Madre,No,No,bueno,Sí,No,Sí,Sí,algunas,malo,algunas,Sí,No,No,baja,baja,No,No,Sí,Sí,alta,a veces,a veces,1-2,Sí,1-3,>3
-77,joven,Masculino,Madre,No,No,bueno,Sí,Sí,Sí,Sí,algunas,malo,algunas,Sí,Sí,No,baja,baja,No,Sí,Sí,Sí,baja,nunca,nunca,1-2,Sí,0,1-3
-78,joven,Femenino,Madre,Sí,No,bueno,No,No,Sí,Sí,algunas,malo,algunas,Sí,No,Sí,media,baja,No,Sí,Sí,Sí,baja,nunca,nunca,1-2,Sí,1-3,1-3
-79,joven,Masculino,Madre,Sí,No,regular,No,Sí,Sí,No,algunas,malo,algunas,No,No,No,baja,baja,No,No,No,No,baja,nunca,nunca,>2,No,0,0
-80,joven,Femenino,Padre,No,No,bueno,Sí,Sí,Sí,Sí,algunas,regular,algunas,No,No,No,media,media,Sí,Sí,No,Sí,baja,nunca,nunca,1-2,No,0,1-3
-81,joven,Masculino,Madre,No,No,regular,Sí,Sí,Sí,Sí,muchas,malo,muchas,No,No,No,media,media,No,No,No,No,baja,nunca,nunca,1-2,Sí,1-3,>3
-82,joven,Masculino,Padre,Sí,No,bueno,Sí,Sí,Sí,Sí,muchas,malo,algunas,Sí,No,No,baja,media,No,No,Sí,Sí,media,casi-nunca,casi-nunca,>2,Sí,>3,1-3
-83,señor,Masculino,Otra persona,Sí,No,bueno,Sí,Sí,Sí,No,algunas,regular,algunas,No,No,Sí,baja,baja,No,No,No,No,baja,nunca,nunca,0,Sí,>3,>3
+13,joven,Masculino,Madre,Sí,No,regular,No,Sí,Sí,No,algunas,regular,muchas,No,No,No,baja,baja,No,No,No,No,baja,nunca,nunca,>2,No,0,>3
+14,joven,Masculino,Padre,Sí,No,regular,Sí,Sí,Sí,Sí,algunas,regular,muchas,No,Sí,No,baja,baja,No,No,No,Sí,media,a veces,a veces,>2,Sí,>3,>3
+15,joven,Femenino,Madre,Sí,No,bueno,No,No,Sí,No,algunas,regular,muchas,Sí,Sí,No,baja,baja,Sí,No,No,No,baja,nunca,nunca,1-2,No,0,1-3
+16,joven,Masculino,Madre,No,No,regular,Sí,Sí,Sí,Sí,muchas,regular,muchas,Sí,Sí,No,baja,baja,No,Sí,No,Sí,baja,casi-nunca,casi-nunca,<1,No,0,1-3
+17,joven,Masculino,Padre,Sí,No,bueno,Sí,Sí,Sí,Sí,muchas,regular,muchas,No,No,No,baja,baja,No,No,Sí,Sí,alta,a veces,regularmente,1-2,No,0,1-3
+18,joven,Masculino,Madre,Sí,No,bueno,Sí,Sí,Sí,Sí,muchas,bueno,muchas,No,No,No,baja,baja,No,Sí,No,No,baja,nunca,nunca,>2,Sí,1-3,>3
+19,joven,Masculino,Madre,No,No,regular,Sí,Sí,Sí,Sí,algunas,bueno,muchas,No,No,No,baja,baja,No,No,Sí,No,baja,casi-nunca,casi-nunca,1-2,Sí,1-3,1-3
+20,joven,Masculino,Padre,No,No,bueno,No,Sí,No,Sí,algunas,regular,muchas,Sí,No,No,media,baja,No,Sí,No,Sí,baja,nunca,regularmente,<1,Sí,0,0
+21,joven,Masculino,Madre,Sí,No,bueno,No,No,Sí,Sí,algunas,bueno,muchas,No,No,No,baja,baja,No,Sí,No,Sí,media,nunca,nunca,1-2,Sí,1-3,1-3
+22,joven,Masculino,Madre,No,No,regular,Sí,Sí,Sí,Sí,muchas,regular,muchas,No,No,Sí,baja,baja,No,Sí,No,Sí,alta,nunca,nunca,1-2,Sí,>3,>3
+23,joven,Femenino,Otra persona,No,No,regular,No,Sí,No,No,algunas,regular,muchas,No,No,No,baja,baja,No,Sí,No,No,baja,casi-nunca,a veces,1-2,Sí,1-3,>3
+24,joven,Masculino,Madre,Sí,No,bueno,Sí,Sí,No,Sí,algunas,bueno,muchas,No,No,No,baja,baja,No,No,No,Sí,media,a veces,a veces,1-2,Sí,1-3,1-3
+25,joven,Masculino,Padre,Sí,No,bueno,Sí,Sí,Sí,Sí,algunas,bueno,muchas,No,No,No,baja,baja,Sí,No,No,Sí,baja,nunca,nunca,<1,Sí,1-3,1-3
+26,joven,Masculino,Madre,No,Sí,bueno,Sí,Sí,Sí,No,algunas,regular,muchas,No,No,No,alta,baja,No,No,No,No,baja,nunca,nunca,<1,Sí,1-3,1-3
+27,joven,Masculino,Madre,Sí,No,regular,No,Sí,Sí,Sí,algunas,regular,muchas,Sí,No,No,baja,baja,No,No,No,Sí,baja,nunca,nunca,>2,Sí,1-3,1-3
+28,joven,Masculino,Padre,Sí,No,bueno,Sí,Sí,Sí,Sí,muchas,bueno,muchas,No,No,No,baja,baja,No,No,No,No,baja,nunca,nunca,>2,Sí,1-3,1-3
+29,joven,Masculino,Madre,Sí,No,bueno,Sí,Sí,Sí,Sí,algunas,bueno,muchas,Sí,No,No,baja,baja,No,No,No,No,baja,nunca,nunca,1-2,Sí,1-3,1-3
+30,adolescente,Masculino,Padre,Sí,No,bueno,Sí,No,Sí,Sí,algunas,bueno,muchas,Sí,No,No,baja,baja,No,No,No,Sí,media,nunca,nunca,1-2,Sí,>3,>3
+31,joven,Masculino,Padre,Sí,No,bueno,Sí,Sí,Sí,Sí,algunas,bueno,muchas,No,No,No,baja,baja,No,No,Sí,Sí,baja,nunca,nunca,<1,Sí,0,1-3
+32,joven,Masculino,Madre,No,No,bueno,Sí,Sí,Sí,Sí,muchas,bueno,muchas,No,No,No,baja,baja,No,No,No,Sí,media,casi-nunca,casi-nunca,1-2,Sí,1-3,1-3
+33,joven,Masculino,Padre,Sí,No,bueno,No,Sí,Sí,Sí,algunas,bueno,muchas,No,No,No,baja,baja,No,No,No,Sí,baja,nunca,nunca,>2,Sí,1-3,>3
+34,joven,Masculino,Madre,Sí,No,regular,Sí,Sí,Sí,No,algunas,regular,muchas,Sí,No,No,baja,baja,No,No,No,No,baja,casi-nunca,casi-nunca,>2,No,0,>3
+35,joven,Masculino,Madre,Sí,No,bueno,Sí,Sí,No,No,muchas,regular,algunas,No,Sí,No,baja,baja,No,Sí,Sí,Sí,baja,casi-nunca,a veces,1-2,Sí,1-3,1-3
+36,joven,Femenino,Padre,Sí,No,bueno,No,Sí,Sí,Sí,algunas,bueno,muchas,Sí,No,No,baja,media,No,No,No,No,baja,nunca,nunca,1-2,No,0,1-3
+37,joven,Masculino,Madre,Sí,No,bueno,Sí,Sí,No,No,muchas,bueno,muchas,No,No,No,baja,baja,No,No,No,No,baja,nunca,nunca,<1,No,0,1-3
+38,joven,Masculino,Madre,Sí,No,bueno,Sí,Sí,Sí,Sí,algunas,bueno,muchas,No,No,No,baja,baja,No,No,No,No,baja,nunca,nunca,>2,Sí,1-3,1-3
+39,joven,Masculino,Madre,Sí,No,regular,No,Sí,Sí,Sí,muchas,regular,algunas,Sí,Sí,No,baja,baja,Sí,Sí,Sí,No,media,nunca,nunca,1-2,Sí,1-3,1-3
+40,joven,Masculino,Madre,No,No,bueno,Sí,Sí,Sí,Sí,algunas,bueno,muchas,No,No,No,baja,media,No,No,No,Sí,media,nunca,nunca,1-2,Sí,1-3,1-3
+41,joven,Masculino,Madre,No,No,bueno,Sí,Sí,Sí,Sí,algunas,bueno,muchas,No,No,No,media,baja,No,Sí,No,Sí,media,nunca,nunca,1-2,Sí,1-3,1-3
+42,joven,Masculino,Padre,No,No,bueno,No,No,No,Sí,algunas,bueno,muchas,No,No,Sí,baja,media,No,No,Sí,No,baja,casi-nunca,casi-nunca,<1,No,0,1-3
+43,joven,Masculino,Madre,No,No,bueno,Sí,Sí,Sí,Sí,algunas,bueno,muchas,No,No,No,baja,baja,No,Sí,No,Sí,media,nunca,casi-nunca,1-2,No,0,1-3
+44,joven,Masculino,Madre,Sí,No,regular,Sí,Sí,Sí,Sí,algunas,regular,muchas,No,No,No,baja,baja,No,Sí,Sí,Sí,baja,nunca,nunca,1-2,Sí,0,>3
+45,joven,Femenino,Madre,No,Sí,regular,No,No,Sí,Sí,muchas,regular,muchas,No,Sí,No,media,baja,No,Sí,No,No,baja,nunca,nunca,1-2,No,0,1-3
+46,joven,Femenino,Madre,No,No,regular,Sí,Sí,Sí,Sí,muchas,bueno,muchas,No,No,No,baja,media,No,No,Sí,No,baja,nunca,nunca,>2,No,0,1-3
+47,joven,Masculino,Madre,No,No,regular,No,No,Sí,Sí,algunas,bueno,muchas,Sí,No,No,baja,baja,No,No,Sí,Sí,alta,a veces,a veces,1-2,Sí,1-3,1-3
+48,joven,Masculino,Pariente,No,No,bueno,Sí,Sí,Sí,Sí,muchas,bueno,muchas,No,No,No,baja,baja,No,Sí,Sí,Sí,media,nunca,nunca,1-2,Sí,>3,1-3
+49,joven,Masculino,Madre,No,No,bueno,Sí,Sí,Sí,Sí,algunas,bueno,muchas,No,No,No,baja,baja,No,Sí,No,Sí,alta,a veces,regularmente,1-2,Sí,>3,>3
+50,joven,Femenino,Madre,No,No,bueno,No,No,Sí,Sí,muchas,regular,muchas,Sí,Sí,No,baja,baja,No,Sí,No,Sí,baja,nunca,nunca,>2,No,1-3,1-3
+51,joven,Masculino,Madre,Sí,No,bueno,Sí,Sí,Sí,Sí,algunas,bueno,muchas,No,No,No,baja,baja,No,Sí,No,Sí,media,nunca,casi-nunca,1-2,Sí,1-3,1-3
+52,joven,Masculino,Madre,Sí,No,bueno,Sí,Sí,Sí,Sí,algunas,bueno,muchas,Sí,No,No,baja,baja,No,No,No,No,baja,nunca,nunca,1-2,Sí,1-3,1-3
+53,joven,Masculino,Madre,Sí,No,regular,Sí,Sí,Sí,Sí,muchas,regular,muchas,No,No,No,baja,baja,No,Sí,No,No,baja,nunca,nunca,1-2,No,0,1-3
+54,joven,Masculino,Otra persona,No,No,bueno,Sí,No,Sí,No,muchas,malo,muchas,No,Sí,No,baja,baja,Sí,No,Sí,Sí,baja,nunca,nunca,>2,Sí,1-3,>3
+55,joven,Masculino,Padre,No,No,regular,Sí,Sí,Sí,Sí,muchas,bueno,muchas,No,No,No,baja,baja,No,No,No,No,baja,nunca,nunca,>2,Sí,>3,>3
+56,joven,Masculino,Padre,No,No,bueno,No,Sí,Sí,Sí,muchas,bueno,muchas,No,No,No,baja,baja,No,No,No,Sí,baja,casi-nunca,nunca,1-2,Sí,1-3,1-3
+57,joven,Masculino,Madre,Sí,No,bueno,Sí,Sí,Sí,No,algunas,regular,muchas,Sí,No,No,baja,baja,No,No,No,Sí,media,a veces,regularmente,<1,Sí,0,>3
+58,joven,Femenino,Madre,Sí,No,bueno,Sí,Sí,No,Sí,muchas,regular,muchas,No,Sí,No,baja,baja,No,Sí,No,Sí,baja,casi-nunca,casi-nunca,>2,No,0,1-3
+59,joven,Masculino,Madre,No,No,bueno,No,No,No,No,muchas,bueno,muchas,No,No,No,baja,baja,No,Sí,Sí,No,baja,regularmente,regularmente,>2,No,0,>3
+60,joven,Masculino,Padre,Sí,Sí,bueno,No,Sí,No,No,algunas,regular,muchas,No,Sí,No,media,alta,No,No,No,Sí,baja,nunca,nunca,<1,Sí,0,1-3
+61,joven,Masculino,Madre,No,No,bueno,No,Sí,Sí,No,muchas,regular,muchas,No,No,No,baja,baja,No,No,Sí,Sí,baja,nunca,nunca,1-2,Sí,1-3,1-3
+62,joven,Femenino,Madre,Sí,Sí,bueno,Sí,Sí,Sí,No,algunas,bueno,muchas,Sí,No,No,media,baja,No,No,No,Sí,media,a veces,regularmente,>2,Sí,1-3,1-3
+63,joven,Masculino,Padre,Sí,No,bueno,Sí,Sí,Sí,Sí,algunas,regular,muchas,No,No,No,baja,baja,No,No,No,No,baja,nunca,nunca,>2,Sí,1-3,1-3
+64,joven,Masculino,Madre,No,Sí,bueno,No,No,Sí,Sí,muchas,bueno,muchas,No,No,No,baja,baja,No,No,No,Sí,baja,nunca,nunca,>2,Sí,0,>3
+65,joven,Masculino,Madre,Sí,No,regular,Sí,Sí,Sí,Sí,muchas,regular,muchas,No,Sí,No,baja,baja,No,Sí,Sí,Sí,alta,a veces,regularmente,>2,No,0,1-3
+66,joven,Masculino,Madre,Sí,No,regular,Sí,No,Sí,Sí,muchas,regular,muchas,Sí,No,No,baja,baja,No,No,No,Sí,baja,nunca,nunca,>2,No,0,1-3
+67,joven,Masculino,Madre,Sí,No,bueno,Sí,Sí,No,Sí,algunas,regular,muchas,No,No,No,baja,baja,Sí,Sí,No,Sí,baja,casi-nunca,casi-nunca,>2,Sí,>3,>3
+68,joven,Masculino,Padre,No,No,regular,Sí,Sí,No,Sí,algunas,regular,muchas,No,No,No,baja,baja,Sí,No,No,No,baja,casi-nunca,nunca,>2,Sí,>3,>3
+69,joven,Masculino,Madre,No,No,bueno,Sí,Sí,Sí,No,algunas,regular,muchas,Sí,No,No,baja,baja,No,No,No,No,baja,nunca,nunca,1-2,Sí,>3,0
+70,joven,Masculino,Padre,No,No,regular,No,Sí,Sí,Sí,algunas,regular,algunas,Sí,Sí,No,baja,baja,Sí,No,Sí,Sí,baja,casi-nunca,casi-nunca,<1,Sí,1-3,1-3
+71,joven,Masculino,Padre,Sí,No,bueno,Sí,Sí,Sí,Sí,algunas,bueno,muchas,No,No,No,baja,baja,No,No,Sí,Sí,baja,nunca,nunca,>2,Sí,1-3,1-3
+72,joven,Masculino,Padre,Sí,No,bueno,Sí,Sí,Sí,No,algunas,bueno,muchas,No,No,No,baja,media,No,Sí,No,No,baja,nunca,nunca,<1,Sí,1-3,1-3
+73,joven,Masculino,Madre,Sí,No,bueno,Sí,Sí,Sí,Sí,algunas,bueno,muchas,No,No,No,baja,baja,Sí,Sí,Sí,Sí,baja,nunca,nunca,1-2,Sí,1-3,1-3
+74,joven,Masculino,Madre,Sí,No,regular,Sí,Sí,Sí,Sí,algunas,regular,muchas,No,No,No,baja,baja,No,No,Sí,No,baja,nunca,nunca,1-2,Sí,>3,1-3
+75,joven,Masculino,Madre,Sí,No,bueno,Sí,Sí,Sí,Sí,muchas,bueno,muchas,No,No,No,media,baja,No,Sí,Sí,Sí,alta,casi-nunca,a veces,1-2,Sí,1-3,>3
+76,joven,Femenino,Madre,No,No,bueno,Sí,No,Sí,Sí,algunas,regular,muchas,Sí,No,No,baja,baja,No,No,Sí,Sí,alta,a veces,a veces,1-2,Sí,1-3,>3
+77,joven,Masculino,Madre,No,No,bueno,Sí,Sí,Sí,Sí,algunas,regular,muchas,Sí,Sí,No,baja,baja,No,Sí,Sí,Sí,baja,nunca,nunca,1-2,Sí,0,1-3
+78,joven,Femenino,Madre,Sí,No,bueno,No,No,Sí,Sí,algunas,regular,muchas,Sí,No,Sí,media,baja,No,Sí,Sí,Sí,baja,nunca,nunca,1-2,Sí,1-3,1-3
+79,joven,Masculino,Madre,Sí,No,regular,No,Sí,Sí,No,algunas,regular,muchas,No,No,No,baja,baja,No,No,No,No,baja,nunca,nunca,>2,No,0,0
+80,joven,Femenino,Padre,No,No,bueno,Sí,Sí,Sí,Sí,algunas,bueno,muchas,No,No,No,media,media,Sí,Sí,No,Sí,baja,nunca,nunca,1-2,No,0,1-3
+81,joven,Masculino,Madre,No,No,regular,Sí,Sí,Sí,Sí,muchas,regular,muchas,No,No,No,media,media,No,No,No,No,baja,nunca,nunca,1-2,Sí,1-3,>3
+82,joven,Masculino,Padre,Sí,No,bueno,Sí,Sí,Sí,Sí,muchas,regular,muchas,Sí,No,No,baja,media,No,No,Sí,Sí,media,casi-nunca,casi-nunca,>2,Sí,>3,1-3
+83,joven,Masculino,Otra persona,Sí,No,bueno,Sí,Sí,Sí,No,algunas,bueno,muchas,No,No,Sí,baja,baja,No,No,No,No,baja,nunca,nunca,0,Sí,>3,>3
 84,joven,Femenino,Padre,No,No,bueno,No,Sí,Sí,Sí,muchas,regular,muchas,Sí,Sí,No,alta,baja,Sí,No,Sí,Sí,baja,nunca,a veces,1-2,No,0,1-3
-85,joven,Femenino,Madre,Sí,No,bueno,Sí,Sí,Sí,Sí,algunas,regular,algunas,No,No,No,media,baja,No,No,Sí,Sí,baja,a veces,nunca,1-2,No,0,1-3
-86,señor,Femenino,Madre,Sí,No,regular,No,Sí,Sí,Sí,muchas,regular,muchas,No,No,No,media,baja,Sí,No,No,Sí,media,nunca,a veces,1-2,No,0,1-3
-87,joven,Masculino,Padre,Sí,No,regular,Sí,Sí,Sí,Sí,algunas,regular,algunas,No,Sí,No,baja,media,No,No,No,Sí,alta,nunca,nunca,>2,Sí,0,>3
-88,señor,Masculino,Madre,No,No,bueno,No,Sí,Sí,No,muchas,regular,algunas,No,No,No,media,baja,No,No,Sí,No,baja,nunca,nunca,1-2,No,0,1-3
-89,señor,Masculino,Madre,Sí,No,bueno,Sí,Sí,Sí,Sí,algunas,regular,algunas,No,No,No,baja,baja,No,No,No,No,baja,nunca,nunca,>2,Sí,>3,>3
-90,señor,Femenino,Padre,Sí,No,regular,No,Sí,No,Sí,algunas,regular,algunas,No,No,No,baja,baja,No,No,Sí,Sí,alta,nunca,nunca,>2,No,0,1-3
-91,señor,Femenino,Madre,No,No,regular,No,Sí,Sí,Sí,algunas,malo,algunas,No,No,No,baja,baja,Sí,No,No,No,baja,casi-nunca,casi-nunca,1-2,Sí,1-3,1-3
-92,joven,Femenino,Madre,Sí,No,bueno,Sí,Sí,Sí,Sí,algunas,bueno,algunas,No,No,No,baja,baja,No,Sí,No,Sí,alta,nunca,a veces,>2,No,0,>3
-93,joven,Femenino,Madre,Sí,No,bueno,No,Sí,Sí,Sí,algunas,malo,algunas,Sí,No,No,alta,media,No,No,No,Sí,media,nunca,nunca,>2,No,0,>3
-94,joven,Masculino,Pariente,No,No,bueno,Sí,Sí,Sí,Sí,muchas,regular,muchas,No,No,No,baja,baja,No,Sí,Sí,Sí,baja,nunca,nunca,1-2,Sí,1-3,1-3
-95,señor,Masculino,Madre,Sí,No,regular,No,No,Sí,Sí,muchas,regular,algunas,No,No,No,baja,baja,Sí,Sí,No,No,baja,nunca,nunca,>2,Sí,>3,1-3
-96,joven,Masculino,Padre,Sí,No,regular,Sí,No,Sí,No,algunas,regular,algunas,No,No,No,baja,baja,No,Sí,No,No,media,nunca,nunca,>2,Sí,1-3,1-3
-97,joven,Femenino,Padre,No,No,regular,No,Sí,Sí,Sí,muchas,regular,muchas,No,No,No,baja,baja,No,No,No,No,baja,nunca,nunca,1-2,Sí,1-3,1-3
-98,señor,Masculino,Padre,Sí,No,regular,No,Sí,Sí,Sí,algunas,regular,algunas,No,No,No,baja,baja,No,No,No,Sí,baja,nunca,nunca,>2,Sí,1-3,1-3
+85,joven,Femenino,Madre,Sí,No,bueno,Sí,Sí,Sí,Sí,algunas,regular,muchas,No,No,No,media,baja,No,No,Sí,Sí,baja,a veces,nunca,1-2,No,0,1-3
+86,joven,Femenino,Madre,Sí,No,regular,No,Sí,Sí,Sí,muchas,bueno,muchas,No,No,No,media,baja,Sí,No,No,Sí,media,nunca,a veces,1-2,No,0,1-3
+87,joven,Masculino,Padre,Sí,No,regular,Sí,Sí,Sí,Sí,algunas,regular,muchas,No,Sí,No,baja,media,No,No,No,Sí,alta,nunca,nunca,>2,Sí,0,>3
+88,joven,Masculino,Madre,No,No,bueno,No,Sí,Sí,No,muchas,bueno,muchas,No,No,No,media,baja,No,No,Sí,No,baja,nunca,nunca,1-2,No,0,1-3
+89,joven,Masculino,Madre,Sí,No,bueno,Sí,Sí,Sí,Sí,algunas,bueno,muchas,No,No,No,baja,baja,No,No,No,No,baja,nunca,nunca,>2,Sí,>3,>3
+90,joven,Femenino,Padre,Sí,No,regular,No,Sí,No,Sí,algunas,bueno,muchas,No,No,No,baja,baja,No,No,Sí,Sí,alta,nunca,nunca,>2,No,0,1-3
+91,joven,Femenino,Madre,No,No,regular,No,Sí,Sí,Sí,algunas,regular,muchas,No,No,No,baja,baja,Sí,No,No,No,baja,casi-nunca,casi-nunca,1-2,Sí,1-3,1-3
+92,joven,Femenino,Madre,Sí,No,bueno,Sí,Sí,Sí,Sí,algunas,bueno,muchas,No,No,No,baja,baja,No,Sí,No,Sí,alta,nunca,a veces,>2,No,0,>3
+93,joven,Femenino,Madre,Sí,No,bueno,No,Sí,Sí,Sí,algunas,regular,muchas,Sí,No,No,alta,media,No,No,No,Sí,media,nunca,nunca,>2,No,0,>3
+94,joven,Masculino,Pariente,No,No,bueno,Sí,Sí,Sí,Sí,muchas,bueno,muchas,No,No,No,baja,baja,No,Sí,Sí,Sí,baja,nunca,nunca,1-2,Sí,1-3,1-3
+95,joven,Masculino,Madre,Sí,No,regular,No,No,Sí,Sí,muchas,bueno,muchas,No,No,No,baja,baja,Sí,Sí,No,No,baja,nunca,nunca,>2,Sí,>3,1-3
+96,joven,Masculino,Padre,Sí,No,regular,Sí,No,Sí,No,algunas,regular,muchas,No,No,No,baja,baja,No,Sí,No,No,media,nunca,nunca,>2,Sí,1-3,1-3
+97,joven,Femenino,Padre,No,No,regular,No,Sí,Sí,Sí,muchas,bueno,muchas,No,No,No,baja,baja,No,No,No,No,baja,nunca,nunca,1-2,Sí,1-3,1-3
+98,joven,Masculino,Padre,Sí,No,regular,No,Sí,Sí,Sí,algunas,bueno,muchas,No,No,No,baja,baja,No,No,No,Sí,baja,nunca,nunca,>2,Sí,1-3,1-3
 99,joven,Masculino,Madre,No,No,bueno,Sí,Sí,No,Sí,muchas,regular,muchas,No,No,No,baja,baja,No,Sí,No,No,baja,nunca,a veces,>2,No,0,1-3
-100,joven,Femenino,Madre,Sí,No,bueno,Sí,Sí,Sí,Sí,algunas,regular,algunas,No,No,No,baja,baja,No,No,No,Sí,baja,nunca,nunca,1-2,No,0,1-3
-101,joven,Masculino,Madre,Sí,No,bueno,Sí,Sí,Sí,Sí,algunas,regular,algunas,No,No,No,baja,baja,No,Sí,No,Sí,alta,nunca,nunca,1-2,Sí,1-3,1-3
-102,joven,Masculino,Padre,No,No,bueno,No,Sí,Sí,No,muchas,regular,algunas,No,No,No,baja,baja,No,Sí,No,No,baja,a veces,regularmente,>2,No,0,1-3
-103,señor,Masculino,Madre,No,No,regular,No,Sí,Sí,Sí,algunas,regular,algunas,No,No,No,baja,baja,No,Sí,Sí,Sí,baja,a veces,casi-nunca,>2,No,0,1-3
-104,señor,Masculino,Padre,Sí,No,regular,Sí,Sí,Sí,Sí,algunas,regular,algunas,No,No,No,baja,baja,No,Sí,Sí,Sí,baja,nunca,nunca,>2,Sí,1-3,1-3
-105,joven,Masculino,Madre,No,No,bueno,Sí,Sí,Sí,Sí,algunas,regular,algunas,No,No,No,baja,baja,No,No,Sí,Sí,media,nunca,casi-nunca,1-2,Sí,1-3,1-3
-106,señor,Masculino,Madre,Sí,No,bueno,No,Sí,Sí,Sí,algunas,regular,algunas,No,No,No,baja,media,No,No,No,No,baja,nunca,casi-nunca,1-2,Sí,>3,1-3
-107,joven,Masculino,Madre,No,No,regular,No,Sí,No,Sí,algunas,regular,algunas,No,No,No,baja,media,No,Sí,Sí,Sí,baja,nunca,casi-nunca,>2,Sí,1-3,1-3
-108,joven,Femenino,Madre,No,No,bueno,Sí,Sí,Sí,Sí,muchas,malo,algunas,Sí,No,No,baja,baja,No,No,No,Sí,media,casi-nunca,casi-nunca,1-2,No,0,1-3
-109,joven,Femenino,Pariente,No,No,bueno,No,Sí,Sí,Sí,muchas,regular,muchas,No,No,No,baja,baja,No,No,No,Sí,baja,nunca,nunca,1-2,No,0,>3
-110,joven,Femenino,Padre,Sí,Sí,bueno,No,Sí,Sí,Sí,algunas,regular,algunas,No,No,No,baja,media,Sí,No,No,No,baja,nunca,nunca,1-2,No,0,1-3
-111,joven,Femenino,Padre,Sí,No,bueno,Sí,Sí,Sí,Sí,muchas,regular,muchas,No,No,No,baja,media,No,No,Sí,Sí,baja,nunca,casi-nunca,>2,Sí,0,1-3
-112,joven,Femenino,Padre,Sí,No,regular,No,Sí,No,Sí,muchas,regular,muchas,No,No,No,baja,media,No,No,No,No,baja,nunca,nunca,1-2,No,0,1-3
-113,joven,Femenino,Otra persona,Sí,No,bueno,No,Sí,Sí,Sí,algunas,regular,algunas,No,No,No,media,media,No,No,Sí,Sí,alta,nunca,casi-nunca,>2,Sí,1-3,>3
-114,joven,Femenino,Madre,No,No,bueno,Sí,Sí,Sí,No,muchas,regular,algunas,No,No,No,baja,baja,No,Sí,Sí,Sí,alta,casi-nunca,nunca,>2,No,0,>3
-115,joven,Masculino,Padre,No,No,bueno,Sí,Sí,Sí,Sí,muchas,malo,algunas,Sí,Sí,Sí,baja,baja,No,No,No,Sí,alta,nunca,casi-nunca,<1,No,1-3,1-3
-116,joven,Masculino,Padre,No,No,bueno,No,Sí,Sí,Sí,algunas,regular,algunas,No,No,No,media,baja,No,No,No,Sí,alta,casi-nunca,casi-nunca,>2,No,0,>3
-117,joven,Masculino,Padre,Sí,No,regular,Sí,Sí,Sí,Sí,algunas,regular,algunas,No,No,No,media,baja,No,No,No,Sí,media,a veces,a veces,>2,Sí,1-3,1-3
-118,joven,Masculino,Madre,Sí,No,bueno,Sí,Sí,Sí,Sí,algunas,regular,algunas,No,No,No,baja,baja,Sí,No,No,Sí,media,nunca,a veces,1-2,Sí,1-3,>3
+100,joven,Femenino,Madre,Sí,No,bueno,Sí,Sí,Sí,Sí,algunas,bueno,muchas,No,No,No,baja,baja,No,No,No,Sí,baja,nunca,nunca,1-2,No,0,1-3
+101,joven,Masculino,Madre,Sí,No,bueno,Sí,Sí,Sí,Sí,algunas,bueno,muchas,No,No,No,baja,baja,No,Sí,No,Sí,alta,nunca,nunca,1-2,Sí,1-3,1-3
+102,joven,Masculino,Padre,No,No,bueno,No,Sí,Sí,No,muchas,bueno,muchas,No,No,No,baja,baja,No,Sí,No,No,baja,a veces,regularmente,>2,No,0,1-3
+103,joven,Masculino,Madre,No,No,regular,No,Sí,Sí,Sí,algunas,bueno,muchas,No,No,No,baja,baja,No,Sí,Sí,Sí,baja,a veces,casi-nunca,>2,No,0,1-3
+104,joven,Masculino,Padre,Sí,No,regular,Sí,Sí,Sí,Sí,algunas,regular,muchas,No,No,No,baja,baja,No,Sí,Sí,Sí,baja,nunca,nunca,>2,Sí,1-3,1-3
+105,joven,Masculino,Madre,No,No,bueno,Sí,Sí,Sí,Sí,algunas,bueno,muchas,No,No,No,baja,baja,No,No,Sí,Sí,media,nunca,casi-nunca,1-2,Sí,1-3,1-3
+106,joven,Masculino,Madre,Sí,No,bueno,No,Sí,Sí,Sí,algunas,regular,muchas,No,No,No,baja,media,No,No,No,No,baja,nunca,casi-nunca,1-2,Sí,>3,1-3
+107,joven,Masculino,Madre,No,No,regular,No,Sí,No,Sí,algunas,bueno,muchas,No,No,No,baja,media,No,Sí,Sí,Sí,baja,nunca,casi-nunca,>2,Sí,1-3,1-3
+108,joven,Femenino,Madre,No,No,bueno,Sí,Sí,Sí,Sí,muchas,regular,muchas,Sí,No,No,baja,baja,No,No,No,Sí,media,casi-nunca,casi-nunca,1-2,No,0,1-3
+109,joven,Femenino,Pariente,No,No,bueno,No,Sí,Sí,Sí,muchas,bueno,muchas,No,No,No,baja,baja,No,No,No,Sí,baja,nunca,nunca,1-2,No,0,>3
+110,joven,Femenino,Padre,Sí,Sí,bueno,No,Sí,Sí,Sí,algunas,regular,muchas,No,No,No,baja,media,Sí,No,No,No,baja,nunca,nunca,1-2,No,0,1-3
+111,joven,Femenino,Padre,Sí,No,bueno,Sí,Sí,Sí,Sí,muchas,bueno,muchas,No,No,No,baja,media,No,No,Sí,Sí,baja,nunca,casi-nunca,>2,Sí,0,1-3
+112,joven,Femenino,Padre,Sí,No,regular,No,Sí,No,Sí,muchas,bueno,muchas,No,No,No,baja,media,No,No,No,No,baja,nunca,nunca,1-2,No,0,1-3
+113,joven,Femenino,Otra persona,Sí,No,bueno,No,Sí,Sí,Sí,algunas,bueno,muchas,No,No,No,media,media,No,No,Sí,Sí,alta,nunca,casi-nunca,>2,Sí,1-3,>3
+114,joven,Femenino,Madre,No,No,bueno,Sí,Sí,Sí,No,muchas,bueno,muchas,No,No,No,baja,baja,No,Sí,Sí,Sí,alta,casi-nunca,nunca,>2,No,0,>3
+115,joven,Masculino,Padre,No,No,bueno,Sí,Sí,Sí,Sí,muchas,regular,muchas,Sí,Sí,Sí,baja,baja,No,No,No,Sí,alta,nunca,casi-nunca,<1,No,1-3,1-3
+116,joven,Masculino,Padre,No,No,bueno,No,Sí,Sí,Sí,algunas,regular,muchas,No,No,No,media,baja,No,No,No,Sí,alta,casi-nunca,casi-nunca,>2,No,0,>3
+117,joven,Masculino,Padre,Sí,No,regular,Sí,Sí,Sí,Sí,algunas,bueno,muchas,No,No,No,media,baja,No,No,No,Sí,media,a veces,a veces,>2,Sí,1-3,1-3
+118,joven,Masculino,Madre,Sí,No,bueno,Sí,Sí,Sí,Sí,algunas,bueno,muchas,No,No,No,baja,baja,Sí,No,No,Sí,media,nunca,a veces,1-2,Sí,1-3,>3
 119,joven,Masculino,Madre,Sí,No,bueno,Sí,Sí,Sí,Sí,muchas,regular,muchas,Sí,No,No,baja,media,No,Sí,Sí,Sí,alta,nunca,nunca,>2,Sí,1-3,1-3
-120,joven,Masculino,Padre,No,No,bueno,Sí,Sí,Sí,Sí,muchas,regular,muchas,No,No,No,baja,media,No,No,No,Sí,alta,nunca,nunca,>2,Sí,1-3,1-3
+120,joven,Masculino,Padre,No,No,bueno,Sí,Sí,Sí,Sí,muchas,bueno,muchas,No,No,No,baja,media,No,No,No,Sí,alta,nunca,nunca,>2,Sí,1-3,1-3
 121,joven,Femenino,Padre,No,No,bueno,Sí,Sí,Sí,Sí,muchas,regular,muchas,No,No,No,baja,baja,No,No,No,Sí,baja,nunca,nunca,1-2,No,0,1-3
-122,señor,Masculino,Padre,Sí,No,regular,No,Sí,Sí,Sí,algunas,malo,pocas,Sí,Sí,No,baja,baja,Sí,No,No,Sí,media,nunca,nunca,1-2,Sí,>3,1-3
-123,joven,Masculino,Madre,Sí,No,regular,Sí,Sí,Sí,Sí,muchas,malo,muchas,Sí,Sí,No,baja,baja,No,No,Sí,Sí,media,a veces,a veces,>2,Sí,1-3,1-3
-124,joven,Masculino,Otra persona,No,No,bueno,No,Sí,Sí,Sí,algunas,malo,pocas,Sí,Sí,No,alta,baja,No,No,No,Sí,baja,casi-nunca,nunca,<1,Sí,1-3,1-3
-125,señor,Masculino,Madre,Sí,No,bueno,Sí,Sí,Sí,Sí,pocas,regular,pocas,Sí,No,No,baja,baja,Sí,Sí,No,Sí,baja,a veces,a veces,1-2,Sí,1-3,1-3
-126,joven,Femenino,Padre,Sí,No,bueno,No,Sí,Sí,Sí,muchas,malo,muchas,No,No,No,baja,media,No,No,No,Sí,alta,nunca,nunca,>2,Sí,>3,1-3
-127,joven,Masculino,Madre,Sí,No,regular,Sí,Sí,Sí,Sí,algunas,malo,pocas,Sí,No,No,baja,baja,No,No,No,Sí,baja,nunca,nunca,>2,Sí,1-3,1-3
-128,joven,Masculino,Madre,Sí,No,bueno,Sí,No,Sí,Sí,muchas,malo,algunas,Sí,Sí,Sí,baja,baja,No,No,No,Sí,baja,nunca,nunca,>2,No,0,1-3
-129,joven,Femenino,Padre,Sí,No,bueno,No,Sí,Sí,Sí,algunas,regular,algunas,No,No,No,media,baja,Sí,No,Sí,Sí,media,casi-nunca,nunca,>2,Sí,1-3,1-3
-130,joven,Masculino,Madre,Sí,No,bueno,Sí,Sí,Sí,Sí,muchas,regular,algunas,Sí,No,No,baja,baja,No,No,Sí,Sí,alta,a veces,regularmente,>2,No,0,1-3
-131,joven,Femenino,Otra persona,No,No,bueno,No,No,No,No,muchas,malo,muchas,No,No,No,baja,baja,No,No,Sí,Sí,media,nunca,nunca,>2,No,0,1-3
-132,señor,Masculino,Padre,Sí,No,regular,Sí,Sí,Sí,No,algunas,regular,pocas,Sí,No,Sí,media,baja,No,Sí,No,Sí,alta,casi-nunca,a veces,1-2,Sí,1-3,1-3
-133,joven,Femenino,Padre,No,No,bueno,Sí,No,Sí,Sí,muchas,regular,muchas,Sí,Sí,No,baja,baja,No,No,No,Sí,baja,nunca,nunca,>2,Sí,0,1-3
-134,señor,Femenino,Padre,Sí,Sí,bueno,No,No,Sí,Sí,muchas,regular,algunas,No,Sí,No,baja,baja,No,No,No,Sí,baja,a veces,a veces,>2,No,0,1-3
-135,señor,Masculino,Padre,No,No,regular,Sí,Sí,Sí,Sí,algunas,malo,pocas,Sí,Sí,No,baja,baja,No,No,No,Sí,baja,a veces,casi-nunca,>2,Sí,1-3,1-3
-136,joven,Masculino,Madre,No,No,bueno,Sí,No,Sí,Sí,algunas,malo,algunas,Sí,No,No,baja,baja,No,No,No,Sí,baja,nunca,a veces,<1,No,0,1-3
-137,joven,Masculino,Madre,No,No,bueno,Sí,No,Sí,Sí,algunas,malo,algunas,No,Sí,No,baja,media,No,No,No,No,baja,nunca,nunca,<1,Sí,1-3,1-3
-138,joven,Femenino,Madre,No,No,bueno,No,No,Sí,No,algunas,malo,pocas,Sí,Sí,No,media,baja,Sí,No,No,Sí,media,nunca,casi-nunca,>2,No,0,>3
-139,señor,Masculino,Pariente,No,No,regular,No,No,No,No,algunas,malo,algunas,Sí,Sí,No,baja,baja,No,No,No,No,baja,nunca,nunca,0,No,0,1-3
-140,joven,Masculino,Madre,No,No,bueno,Sí,Sí,Sí,Sí,algunas,regular,algunas,No,No,No,baja,baja,No,No,Sí,Sí,baja,nunca,nunca,>2,Sí,1-3,1-3
-141,joven,Masculino,Madre,Sí,No,bueno,Sí,No,Sí,Sí,algunas,malo,algunas,Sí,Sí,No,baja,baja,No,No,No,No,baja,nunca,nunca,>2,Sí,>3,>3
+122,joven,Masculino,Padre,Sí,No,regular,No,Sí,Sí,Sí,algunas,regular,algunas,Sí,Sí,No,baja,baja,Sí,No,No,Sí,media,nunca,nunca,1-2,Sí,>3,1-3
+123,joven,Masculino,Madre,Sí,No,regular,Sí,Sí,Sí,Sí,muchas,regular,muchas,Sí,Sí,No,baja,baja,No,No,Sí,Sí,media,a veces,a veces,>2,Sí,1-3,1-3
+124,joven,Masculino,Otra persona,No,No,bueno,No,Sí,Sí,Sí,algunas,regular,algunas,Sí,Sí,No,alta,baja,No,No,No,Sí,baja,casi-nunca,nunca,<1,Sí,1-3,1-3
+125,joven,Masculino,Madre,Sí,No,bueno,Sí,Sí,Sí,Sí,pocas,regular,algunas,Sí,No,No,baja,baja,Sí,Sí,No,Sí,baja,a veces,a veces,1-2,Sí,1-3,1-3
+126,joven,Femenino,Padre,Sí,No,bueno,No,Sí,Sí,Sí,muchas,regular,muchas,No,No,No,baja,media,No,No,No,Sí,alta,nunca,nunca,>2,Sí,>3,1-3
+127,joven,Masculino,Madre,Sí,No,regular,Sí,Sí,Sí,Sí,algunas,regular,algunas,Sí,No,No,baja,baja,No,No,No,Sí,baja,nunca,nunca,>2,Sí,1-3,1-3
+128,joven,Masculino,Madre,Sí,No,bueno,Sí,No,Sí,Sí,muchas,regular,muchas,Sí,Sí,Sí,baja,baja,No,No,No,Sí,baja,nunca,nunca,>2,No,0,1-3
+129,joven,Femenino,Padre,Sí,No,bueno,No,Sí,Sí,Sí,algunas,bueno,muchas,No,No,No,media,baja,Sí,No,Sí,Sí,media,casi-nunca,nunca,>2,Sí,1-3,1-3
+130,joven,Masculino,Madre,Sí,No,bueno,Sí,Sí,Sí,Sí,muchas,regular,muchas,Sí,No,No,baja,baja,No,No,Sí,Sí,alta,a veces,regularmente,>2,No,0,1-3
+131,joven,Femenino,Otra persona,No,No,bueno,No,No,No,No,muchas,regular,muchas,No,No,No,baja,baja,No,No,Sí,Sí,media,nunca,nunca,>2,No,0,1-3
+132,joven,Masculino,Padre,Sí,No,regular,Sí,Sí,Sí,No,algunas,bueno,algunas,Sí,No,Sí,media,baja,No,Sí,No,Sí,alta,casi-nunca,a veces,1-2,Sí,1-3,1-3
+133,joven,Femenino,Padre,No,No,bueno,Sí,No,Sí,Sí,muchas,bueno,muchas,Sí,Sí,No,baja,baja,No,No,No,Sí,baja,nunca,nunca,>2,Sí,0,1-3
+134,joven,Femenino,Padre,Sí,Sí,bueno,No,No,Sí,Sí,muchas,regular,muchas,No,Sí,No,baja,baja,No,No,No,Sí,baja,a veces,a veces,>2,No,0,1-3
+135,joven,Masculino,Padre,No,No,regular,Sí,Sí,Sí,Sí,algunas,malo,algunas,Sí,Sí,No,baja,baja,No,No,No,Sí,baja,a veces,casi-nunca,>2,Sí,1-3,1-3
+136,joven,Masculino,Madre,No,No,bueno,Sí,No,Sí,Sí,algunas,malo,muchas,Sí,No,No,baja,baja,No,No,No,Sí,baja,nunca,a veces,<1,No,0,1-3
+137,joven,Masculino,Madre,No,No,bueno,Sí,No,Sí,Sí,algunas,regular,muchas,No,Sí,No,baja,media,No,No,No,No,baja,nunca,nunca,<1,Sí,1-3,1-3
+138,joven,Femenino,Madre,No,No,bueno,No,No,Sí,No,algunas,malo,algunas,Sí,Sí,No,media,baja,Sí,No,No,Sí,media,nunca,casi-nunca,>2,No,0,>3
+139,joven,Masculino,Pariente,No,No,regular,No,No,No,No,algunas,malo,muchas,Sí,Sí,No,baja,baja,No,No,No,No,baja,nunca,nunca,0,No,0,1-3
+140,joven,Masculino,Madre,No,No,bueno,Sí,Sí,Sí,Sí,algunas,regular,muchas,No,No,No,baja,baja,No,No,Sí,Sí,baja,nunca,nunca,>2,Sí,1-3,1-3
+141,joven,Masculino,Madre,Sí,No,bueno,Sí,No,Sí,Sí,algunas,malo,muchas,Sí,Sí,No,baja,baja,No,No,No,No,baja,nunca,nunca,>2,Sí,>3,>3
